@@ -1,0 +1,417 @@
+Introduction: Building a project plan
+Components of a project plan
+Task : Project activity that needs to be accomplished within a set period of time.
+Milestone : Important check point within the project schedule that indicates project progress and signifies the completion of deliverable or project phase.
+People & Roles : 
+Documentation : RACI Chart + Project Charter + Budget & Risk Management Plan.
+Time : Estimated time that will be spent on the project.
+
+We can also add other component like
+Scope and goals OR Project charter
+Work Breakdown Structure (WBS) : is a tool that sorts the milestones and tasks of a project in a hierarchy, in the order they need to be completed
+Budget 
+Management plans : Change Management Plan + Risk Management Plan + Communication Plan
+Making realistic time estimates
+ 
+Time Estimation : 
+Time estimation is a prediction of the total amount of time required to complete a task. 
+Effort Estimation : 
+Effort estimation is a prediction of the amount and difficulty of active work required to complete a task. 
+
+
+For Example:
+The effort estimation for painting a wall might be 30 minutes, but time estimation might be 24 hours. That's because in addition to the 30 minutes of active painting time, there are also 23 and a half hours of inactive drying time. 
+ 
+An unrealistic effort estimate can negatively impact a project schedule. Generally, this happens when you underestimate the amount of time it will take to complete a task. 
+Your teammates will have the most realistic understanding of the amount of work required to complete a task and should be able to provide you with the best estimate. 
+ 
+Sub Task:
+Sub-tasks refer to smaller tasks that are required to complete a larger task.
+Asking the teammate assigned to the task for their estimate is likely to yield (padawar)a more accurate estimation since they'll have a deeper understanding of the work and the nuances(Bareekya) of what's required to complete the task. 
+ 
+Buffer:
+A buffer is extra time added to the end of a task or a project to account for unexpected slowdowns or delays in work progress. 
+Buffers are important because they can provide some leeway (Chute + janay do), just in case your time and effort estimates turn out to fall a bit short. 
+ 
+Buffer Types:
+Task buffer: 
+-Refer to extra time tacked (semet) on to a specific task. Task buffers should be used primarily for tasks that are out of the project team's control. 
+-Task buffers should be used more sparingly (Roughly) for tasks within the project team's control. 
+-Adding a buffer to every task could lengthen your project schedule unnecessarily, leaving you, your team, and your stakeholders with an unrealistic timeline. 
+ 
+ 
+ 
+Project buffer:Provide extra time to the overall project schedule. 
+ 
+Overcoming the planning fallacy (Miss Conception)
+Planning Fallacy  Theory & Optimism bias (Habitual Tendency + unrealistic optimism) :
+The planning fallacy describes our tendency to underestimate the amount of time it will take to complete a task, as well as the costs and risks associated with that task, due to optimism bias.
+ 
+For example, when you are planning to walk your dog in between meetings, you might think that you can do it faster than you actually can. Optimism bias is what tells you that you are going to be able to walk your dog without being late for your next meeting. If you don’t consider things that might affect the time it will take you to walk your dog—the weather, the chance of them running into another dog and wanting to play, or the fact that they frequently get distracted while sniffing (سونگھن )around—you might be late for your next meeting, or you might miss it altogether! .
+The planning fallacy can happen to anyone, regardless of whether or not they have experience completing similar tasks. Whether this is your first time walking your dog or your hundredth, you still have to consider the different factors that can affect how long it will take you to complete the walk. This same principle applies in project management. You may be brand new to this kind of project or you may have managed tons of similar projects before; either way, you still need to be careful not to underestimate the time it will take to complete each task on this particular project. As a project manager, you should aim to balance being aware of the planning fallacy with keeping an optimistic attitude about the project, even as things change. Be optimistically realistic: Push for the best outcomes while planning for the proper time it may take to accomplish each task.
+ 
+Being on the lookout for “what-ifs” is a key project management skill. Considering situations that could affect whether or not the project is completed on time can help you overcome the planning fallacy. Also, you will always have a project team in your corner, so make sure you use them as resources to help uncover possible risks. Remember to be “optimistically realistic” and push for the best outcome while still planning for the proper time to accomplish each task.
+ 
+Capacity Planning:
+Capacity refers to the amount of work that the people or resources assigned to the project can reasonably complete in a set period of time.
+-A person can only do so much, and it's important to keep in mind each person's capacity when assigning work.  
+-Capacity planning refers to the act of allocating people, and resources to project tasks. And determining whether or not you have the necessary resources required to complete the work on time. 
+-During this process, you might find that you need more resources to speed up the project timeline, like a second web developer, or a third writer. 
+ 
+Critical path:
+The critical path refers to the list of project milestones that you must reach in order to meet the project goal on schedule. 
+-As well as the mandatory tasks that contribute to the completion of each milestone.
+-Anything else is considered off the critical path.
+ 
+For example, tasks on the critical path for launching Project Plant Pals might include hiring plant vendors, developing a new website, and fulfilling deliveries. A task like adding flowers to your product lineup, is nice to have, but might not have much impact on the overall success of your project, because this task isn't crucial to your launch. These tasks aren't part of the critical path. 
+ 
+To summarize, your critical path includes the bare minimum (Kam az kam)number of tasks and milestones you need to reach your project goal. 
+ 
+-There are a few factors that can impact capacity, and capacity planning. First you need to be able to identify which task can happen in parallel, which means they can happen at the same time as other tasks. You will also need to identify which task can happen sequentially, meaning they must happen in a specific order. When you identify which task can happen in parallel, it helps you create efficiencies within your project schedule, by demonstrating where you can complete multiple tasks at the same time. Identifying sequential tasks, helps you identify the tasks that you need to prioritize early on in the project. 
+ 
+-For example, a sequential task for your Plant Pals project may include needing budget approval before hiring a vendor. And two parallel tasks might include hiring delivery drivers, and the development of a website. These tasks have no relationship to one another, as they focus on different portions of the project, and can be completed by different members of the team. That means that one task can begin even if the other task hasn't been completed. And so the work to complete these tasks can happen at the same time.
+ 
+Fixed Start Date Task:
+You also need to determine which project tasks have a fixed start date. A fixed start date refers to the date on which you must start work on your task in order to achieve your goal. 
+-Identifying whether or not your tasks have a fixed start dates can help with capacity planning. Because it helps ensure that you'll have the right number of people available to complete tasks on time.
+ 
+Float:
+Another best practice for capacity planning, and creating a critical path includes identifying if a task has float, also sometimes known as slack. Float refers to the amount of time you can wait to begin a task before it impacts the project schedule, and threatens the project outcome. 
+ 
+-For instance, tasks on the critical path should have zero float, meaning there is no room for delays. 
+-For example, the shipment of plants to a priority customer who has requested their delivery on a specific date is a task that has zero float. 
+ 
+To figure out dependencies for each task, ask:
+Which task needs to take place before this task?
+Which task can be finished at the same time as this task?
+Which task needs to happen right after this task?
+ 
+Calculate the critical path using two common approaches: the forward pass and the backward pass. These techniques are useful if you are asked to identify the earliest and latest start dates (the earliest and latest dates on which you can begin working on a task) or the slack (the amount of time that task can be delayed past its earliest start date without delaying the project).
+ 
+Earliest Start Date OR Latest Start Date : task start time
+Slack Or Float : the amount of time that task can be delayed.
+-For example, when you’re making an omelet, “Heating the pan” has zero float since it is on the critical path.
+Seasoning the eggs, however, has a lot of float. You can add salt to the raw egg mixture, while the eggs are cooking, and even after they’ve cooked.
+ 
+ 
+Fixed Start Date : you must start work on your task in order to achieve your goal.
+ 
+The forward pass refers to when you start at the beginning of your project task list and add up the duration of the tasks on the critical path to the end of your project. When using this approach, start with the first task you have identified that needs to be completed before anything else can start. 
+The backward pass is the opposite—start with the final task or milestone and move backwards through your schedule to determine the shortest path to completion. When there is a hard deadline, working backwards can help you determine which tasks are actually critical. You may be able to cut some tasks—or complete them later—in order to meet your deadline.  
+Must check the link
+https://www.workamajig.com/blog/critical-path-method
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Getting accurate time estimates from your team
+Soft skills:
+Soft skills are personal characteristics that help people work effectively with others. 
+Let's go over three ways to use soft skills and gather accurate estimates from your teammates. These are 
+-asking the right questions
+-negotiating effectively
+-practicing empathy. 
+ 
+open-ended question:
+An open-ended question is a question that cannot be answered with a yes or a no. 
+ 
+Empathy refers to a person's ability to relate to the thoughts and feelings of others. 
+ 
+ 
+Developing a project schedule
+ 
+An anchor (Jahaz Ka Langar ..ruknay ki jada)of a good project plan is a clear schedule containing all the tasks of a project, their owners, and when they need to be completed. 
+ 
+Gantt chart : 
+A Gantt chart is a horizontal bar chart that maps out a project schedule. 
+It's a highly visual representation of a project's tasks with clear breakdowns of who's responsible for the work and when those tasks are due.
+ 
+ 
+Best Practices:
+Ensuring careful review of project deliverables milestones, and tasks
+Giving yourself time to plan
+Recognizing and planning for the inevitable (things will go wrong)
+Staying curious
+Championing your plan.
+ 
+ 
+Championing Plan:
+Can your teammates use the tool you used to build your plan? 
+Is the information clear enough for your stakeholders? 
+Will using this plan as a single source of truth save your team and stakeholders the time and energy when they need to find information on the project?
+ 
+ 
+Introduction to Kanban boards
+-manage tasks and workflows
+-Tasks associated with the project are written on cards. These cards are placed in columns, which represent the progress made. 
+-most suitable for project teams working in an Agile project management approach. 
+-Agile project management is an iterative approach to managing projects that focuses on continuous releases and incorporates customer feedback with every iteration. 
+Purposes of a Kanban board
+Give a quick visual understanding of work details and provide critical task information.
+Facilitate handoffs between stakeholders, such as between development and testing resources or between team members who work on related tasks.
+Help with capturing metrics and improving workflows.
+ 
+Introduction: Managing budgeting and procurement
+ 
+The importance of budget setting
+ 
+Project Budget:
+A project budget is the estimated monetary (maleyati )resources needed to achieve the project's goals and objectives. 
+ 
+Milestone:
+You break the budget down by milestones, which are important points within the project schedule that indicate progress and usually signifies the completion of a deliverable or phase of the project, and list activities and tasks alongside their associated costs.
+ 
+Forecast:
+A forecast (pashan goee)for your project budget is a cost estimate or a prediction over a period of time. 
+ 
+ 
+A project manager must show the requested amount of money was used in order to secure enough budget for future projects.
+ 
+Key components of a project budget:
+ 
+Project managers must account for
+Understanding stakeholder needs
+Budgeting for surprise expenses
+Maintaining adaptability
+Reviewing and reforecasting throughout the entire project.
+ 
+There are several factors to consider when creating a budget
+ 
+Resource cost rates : People, Software , Hardware
+ 
+Reserve analysis : A reserve analysis is a method to check for remaining project resources. + potential risks + Buffer Fund
+ 
+Contingency budget : Money that is included to cover potentially unforeseen events that aren't accounted for in a cost estimate.
+ 
+Cost of quality : The cost of quality refers to all of the costs that are incurred to prevent issues with products, processes, or tasks. 
+The cost of quality includes 
+Prevention (rok tam) costs
+Appraisal (tahmina) costs
+internal failure costs
+external failure costs.
+ 
+Project budgeting best practices
+Here are a few tips to consider when creating your project budget:
+Reference historical data: Your project may be similar to a previous project your organization has worked on. It is important to review how that project’s budget was handled, find out what went well, and learn from any previous mistakes.
+Utilize your team, mentors, or manager: Get into the habit of asking for your team to double check your work to give you additional sets of eyes on your documents.
+Time-phase your budget: Time-phased budgeting allows you to allocate costs for project tasks over the projected timeline in which those expenses are planned to take place. By looking at your tasks against a timeline, you can track and compare planned versus actual costs over time and manage changes to your budget as necessary.
+Check, check, and double check: Make sure that your budget is accurate and error-free. Your budget will likely require approval from another department, such as finance or senior management, so do your best to ensure that it is as straightforward to understand as possible and that all of your calculations are correct.
+Direct costs
+These are costs for items that are necessary in order to complete your project. These costs can include:
+Wages and salaries of employees and contractors 
+Materials costs
+Equipment rental costs
+Software licenses 
+Project-related travel and transportation costs
+Staff training
+Indirect costs
+These are costs for items which do not directly lead to the completion of your project but are still essential for the project team to do their work. They are also referred to as overhead costs. These costs can include:
+Administrative costs
+Utilities
+Insurance 
+General office equipment 
+Security
+Key takeaways
+Budgeting in the project management world is a complex process involving many different parties and documentation, but following the best practices described in this reading can help break it down. Remember to use historical data and time-phasing, and reach out to your team for support. Make sure you are capturing all of the components of your budget, including direct and indirect costs. Finally, be sure to baseline your budget so you know where your money is being used and when. These tips can help set you up for budget management success.
+ 
+Creating a project budget
+Overestimating or underestimating?
+You'll use techniques like 
+Researching historical data : Review Past Project Similar to yours
+Leveraging (fida otana)experts : Reaching out to colleagues who worked on a similar project 
+The bottom-up approach : Making a list of every material, resource, contract worker, or anything that comes with an associated cost, and adding all of that together. 
+Confirming accuracy : Double-check everything to confirm accuracy.
+Setting your baseline : Your baseline is the dollar amount that you'll use to measure against, to find out if you're on track or not, and to measure the success of your project
+ 
+ 
+Project Plant Pals, The button up approach
+Breaking the project down into tasks. 
+Estimate the cost of each item
+Add those estimates together
+Add contingency and tax
+Seek overall approval on our budget from our key stakeholders. 
+ 
+
+ 
+Maintaining a project budget
+-Monitoring the budget is crucial for a project manager to enforce accountability in terms of spending.
+-Milestones are a metric for tracking progress in the project. Milestones are a great opportunity to re-review the budget to identify if anything needs to be reset or revisited throughout the project. 
+ 
+Fixed Contracts
+-Fixed contracts are usually paid for when certain milestones are reached.
+ 
+Time & Materials
+-Time and materials' contracts are usually paid for monthly based on the hours worked and other fees associated with the work, like travel and meals. 
+ 
+Cost Control
+Cost control is a practice where a project manager identifies factors that might impact their budget and then creates effective actions to minimize variances.
+ 
+Overcoming budgeting challenges
+Challenge 1: Budget pre-allocation
+You may encounter situations where your budget is already set before you even start the project. This is known as budget pre-allocation. Some organizations follow strict budgeting cycles, which can lead to cost estimations taking place before the scope of the project is completely defined.  
+ 
+If you are given a pre-allocated budget, it is important to work with your customer to set expectations on scope and deliverables within the allocated budget. To deliver a great product within your allocated budget will require detailed planning.
+ 
+A pre-allocated budget should also be routinely monitored to ensure the amounts you have budgeted are sufficient to meet your costs. Be sure to carefully track all expenses in your budget. Regularly match these expenses against your pre-allocated budget to ensure you have sufficient funds for the remainder of your project.
+ 
+Part of that planning includes making sure that you are tracking fixed and time- and materials-based expenses. Fixed contracts are usually paid for when certain milestones are reached. Time and materials contracts are usually paid for monthly, based on the hours worked and other fees associated with the work, such as travel and meal expenses. 
+ 
+Challenge 2: Inaccurately calculating TCO
+Another budgeting pitfall you should try to avoid is underestimating the total cost of ownership (TCO) for project resources. TCO takes into account multiple elements that contribute to the cost of an item. It factors in the expenses associated with a product or service over its lifetime, rather than just upfront costs. 
+ 
+Let’s relate TCO to something more common, like owning a vehicle. Let’s say you buy a vehicle for a certain price, but then you also pay for things related to the vehicle, such as license fees, registration fees, and maintenance. If you add all of this up, you have your TCO for that vehicle. So now that you know what your TCO is, you may consider those fees before you buy your next vehicle. For example, you might opt for a vehicle with fewer maintenance requirements than one that requires more frequent service, since you know that will save you money overall. 
+ 
+The same concept applies to budgeting on a project. If you have a service requirement for a software technology that your team is using, for example, then it is important to budget for the costs of maintenance for that service. Additional types of costs you may need to account for when calculating TCO include warranties, supplies, required add-on costs, and upgrade costs.
+ 
+Challenge 3: Scope creep
+Scope creep is when changes, growth, and other factors affect the project’s scope at any point after the project begins. Scope creep causes additional work that wasn’t planned for, so scope creep can also impact your budget. 
+ 
+There are several factors that can lead to scope creep, such as: 
+ 
+A vague Statement of Work (SoW)
+ 
+Conversations and agreements about the project that aren’t officially documented
+ 
+Unattainable timeframes and deadlines
+ 
+Last-minute asks from priority stakeholders
+ 
+Addressing these factors as you plan your project can help prevent scope creep from impacting your budget.
+ 
+ 
+Understanding procurement (Muyassar karna)
+Procurement means obtaining all of the materials, services, and supplies required to complete the project. 
+ 
+-Vendors
+Vendors are individuals or businesses who provide essential goods and services. 
+ 
+-Sourcing talent includes researching and obtaining estimated costs from different partner companies you may use on a project. 
+ 
+Vendor Management.
+ 
+
+Procurement (obtain (something), especially with care or effort. )process
+Initiating: planning what you need to meet your project goals
+Selecting: deciding which supplies and vendors to use
+Contract writing: developing, reviewing, and signing contracts
+Controlling: making payments and maintaining and ensuring quality
+Completing: measuring your success
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TakeAway:
+Procurement is an ongoing process that can be repeated during the life cycle of a project. You may initiate the procurement process several times over if you need additional deliverables. To do so, you will likely evaluate your current vendors—or select new ones if necessary. If you change vendors or contract terms, you will have to write new contracts. It is important to periodically review the quality of each vendor during the controlling phase and, once everything is finished, document the lessons you learned during the completion phase. 
+ 
+ 
+Common procurement documentation
+ 
+NDA
+Initiating phase, a project manager will create a nondisclosure agreement, otherwise known as an NDA. 
+-NDA is to keep confidential information within the organization.
+ 
+RFP
+In the selecting phase, a project manager creates a request for proposal, or an RFP.
+-Outline detail of a project.
+ 
+SOW
+A statement of work is a document that clearly lays out the products and services a vendor or contractor will provide for the organization. 
+ 
+ 
+ 
+Risk Managment
+ 
+Introduction: Managing risks effectively
+No project goes 100 percent according to plan, even when they're run by the most experienced project managers. 
+ 
+Risk
+ A risk is a potential event which can occur and can impact your project.
+ 
+Issues
+An issue is a known or real problem that can affect the ability to complete a task. 
+ 
+Risk management
+Risk management is the process of identifying and evaluating potential risks and issues that could impact a project.
+ 
+ 
+Risk Management provides
+What could go wrong.
+Who you need to consult about the risk. 
+How the potential risk could be mitigated (lam karma).
+ 
+No Risk Management Consequences:
+-First, if you don't plan ahead, you may put your project at risk of not meeting its project goal, its timelines, or success criteria. 
+-Additionally, by failing to plan for risks, you also fail to think through the many different ways that your project could pivot (Markazi) and still meet its goals.
+-Finally, risks can affect projects in a variety of ways that are difficult to foresee.
+ 
+When these moments arise, it is important to keep calm, figure out the root cause of the problem, and come up with a solution.
+ 
+ 
+Risk Management:
+1. Identify the risk. The first phase of the risk management process is to identify and define potential project risks with your team. After all, you can only manage risks if you know what they are. 
+2. Analyze the risk. After identifying the risks, determine their likelihood and potential impact to your project. Serious risks with a high probability of occurring pose the greatest threat.
+3. Evaluate the risk. Next, use the results of your risk analysis to determine which risks to prioritize.
+4. Treat the risk. During this phase, make a plan for how to treat and manage each risk. You might choose to ignore minor risks, but serious risks need detailed mitigation plans.
+5. Monitor and control the risk. Finally, assign team members to monitor, track, and mitigate risks if the need arises.
+In the upcoming videos and activities, you will learn about each of these phases in more detail and use tools and templates to navigate the risk management process. 
+ 
+ 
+Risk = Negative Event
+Opportunity = Bed Things
+ 
+ 
+Uncover opportunities using risk management
+Some examples of opportunities include: 
+Completing a milestone ahead of schedule
+Discounted materials 
+Availability of additional resources (people, investments, equipment) 
+ 
+Tools to help identify risks
+ 
+A great tool that you can use during brainstorming is called a cause-and-effect diagram, also sometimes known as a fishbone diagram. 
+ 
+Cause-and-effect diagram
+Cause-and-effect diagrams show the possible causes of an event or risk and are very useful at risk management.
+
+ 
+Tools to help identify risks
+Brainstorming - Cause-and-effect diagram
+Rist Assessment
+ 
+A great tool that you can use during brainstorming is called a cause-and-effect diagram, also sometimes known as a fishbone diagram. 
+ 
+Cause-and-effect diagram / Fishbone
+Cause-and-effect diagrams show the possible causes of an event or risk and are very useful at risk management.
+ 
+Risk Register
+A risk register is a table or chart that contains your list of risks. 
+ 
+Rist assessment
+Risk assessment is the stage of risk management where qualities of a risk are estimated or measured.
+ 
+Probability and impact matrix.
+A probability and impact matrix is a tool used to prioritize project risks. 
+ 
+To create a probability and impact matrix, you will need to think about the level of impact. Impact refers to the damage a risk could cause if it occurs. Impact is also determined on a scale of high, medium, and low.
+ 
+Probability:
+ Probability is the likelihood that a risk will occur. We also determine probability on a scale of high, medium, and low.
+ 
+Inherent risk:
+Inherent risk is the measure of a risk calculated by its probability and impact.
+ 
+Risk Appetite
+The way you view and manage each risk will be determined based on your organization's risk appetite, which refers to the willingness of an organization to accept the possible outcomes of a risk. 
+ 
