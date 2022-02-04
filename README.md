@@ -46,3 +46,20 @@ Tracking is important for a few key reasons, like transparency, risk managemen
 If you need to communicate milestones to a large team, you might choose a roadmap. 
 If you have a project with multiple dependencies, you might choose a Gantt chart. 
 If tracking tasks against your deadline is especially important, then the burndown chart might be your best option. And you may even decide to use more than one.
+
+## Project Status Report
+Project status reports improve and simplify communication across teams and keep key stakeholders informed. They also create structure and maintain transparency by making the project status available in a central location. 
+Your status report should include:
+* A project summary and date 
+* Key dates 
+* Progress towards milestones (completed and upcoming) 
+* Issues and risks, along with their impact and any actions to be taken
+
+
+## Project Status Report
+
+project status reports are a powerful tool to:
+* Improve and simplify communication across the team. 
+* Keep everyone, including key stakeholders, informed. 
+* Request more resources and support (if needed). 
+* Create structure and transparency by recording the project status in a centralized place. 
