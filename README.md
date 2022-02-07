@@ -63,3 +63,23 @@ project status reports are a powerful tool to:
 * Keep everyone, including key stakeholders, informed. 
 * Request more resources and support (if needed). 
 * Create structure and transparency by recording the project status in a centralized place. 
+
+
+## Why risks and changes occur
+Example of risk:
+
+1. A project risk might be a contractor missing a deadline
+2. Introducing a tool that may lead to communication breakdown within your team, or unexpected
+3. Additional work because of an unforeseen policy being put in place.
+
+## Change
+A change is anything that alters or impacts the tasks, structures, or processes within a project.
+
+## Type of changes
+1. New or changing dependencies
+2. Changing priorities
+3. Capacity and people
+4. Limitations on budget or resources
+5. Scope creep
+6. Fourche majeure —national or international issue
+
