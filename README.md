@@ -83,3 +83,32 @@ A change is anything that alters or impacts the tasks, structures, or processes
 5. Scope creep
 6. Fourche majeure —national or international issue
 
+
+## Identifying and tracking dependencies
+
+## Dependencies
+Dependencies are the links that connect one project task to another, and as we mentioned, they're often the greatest source of risk to a project.
+
+## Internal dependencies :
+which describes the relationship between two tasks within the same project.
+
+## External dependencies
+External dependencies, on the other hand, refer to tasks that are reliant on outside factors, like regulatory agencies or other projects.
+
+## Mandatory dependencies
+Mandatory dependencies are tasks that are legally or contractually required.
+
+## Discretionary dependencies 
+Discretionary dependencies are defined by the project team. These are dependencies that could occur on their own but the team saw a need to make those dependencies reliant on one another. 
+
+##  Dependency management 
+ Dependency management is the process of managing all of these interrelated tasks and resources within the project to ensure that your overall project is completed successfully on time and in budget. 
+
+
+There are four important steps that a project manager can take: 
+1. proper identification
+2. recording dependencies
+3. continuous monitoring and control
+4. and efficient communication. 
+
+
