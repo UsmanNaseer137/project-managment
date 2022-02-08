@@ -111,4 +111,14 @@ There are four important steps that a project manager can take: 
 3. continuous monitoring and control
 4. and efficient communication. 
 
+## Techniques to help manage risks
+
+## Risk Management
+Risk management is the process of identifying potential risks and issues which could impact a project, then evaluating and applying steps to address the effects of the identified risks and issues. 
+
+If you can manage those two things, both changes and dependencies and scope creep, other types of risks become much easier to manage.
+
+## Risk Exposure:
+Risk exposure is a way to measure the potential future loss resulting from a specific activity or event. 
+
 
