@@ -122,3 +122,17 @@ If you can manage those two things, both changes and dependencies and scope cre
 Risk exposure is a way to measure the potential future loss resulting from a specific activity or event. 
 
 
+## ROAM
+## Resolved: 
+The issue has been eliminated and no longer poses a problem.
+
+## Owned: 
+The issue has been assigned to a team member who will monitor it through to completion.
+
+## Accepted: 
+The issue is minor or cannot be resolved, so the team chooses to accept and work around it.
+
+## Mitigated: 
+The team has taken action to reduce the impact of the issue (or reduce the likelihood of a risk that has not yet materialized).
+
+
