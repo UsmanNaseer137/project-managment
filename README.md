@@ -136,3 +136,22 @@ The issue is minor or cannot be resolved, so the team chooses to accept and work
 The team has taken action to reduce the impact of the issue (or reduce the likelihood of a risk that has not yet materialized).
 
 
+## Escalating issues
+Escalation is the process of enlisting the help of higher-level project leadership or management to remove an obstacle, clarify or reinforce priorities, and validate next steps. 
+
+1. Act as a check and balance
+2. Speedy  decision making
+3. Reduce frustrations
+4. Encourage participation
+
+## Critical problems are issues that may cause 
+1. a delay to a major project milestone
+2. issues that cause budget overruns
+3. issues that can result in the loss of a customer
+4. issues that push back the estimated project completion date. 
+
+Trench wars occur when two peers or groups can't seem to come to an agreement, and neither party is willing to give in. 
+
+A bad compromise occurs when two parties settle on a so-called solution, but the end product still suffers. 
+
+
