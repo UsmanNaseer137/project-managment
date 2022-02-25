@@ -154,4 +154,15 @@ Trench wars occur when two peers or groups can't seem to come to an agreement, 
 
 A bad compromise occurs when two parties settle on a so-called solution, but the end product still suffers. 
 
+## Communicating changes to the team
+As a project manager, when communicating a small change that will affect an individual, it's a good idea to send an email. 
+
+When there's a big change within your project that impacts more than one person and is likely to change the budget, deadline, or scope of the project, you'll probably want to have a team meeting. 
+
+## Timeout
+A timeout means taking a moment away from the project in order to take a breath, regroup, and adjust the game plan.
+
+## Retrospective
+A retrospective focuses on identifying the contributing causes of an incident or pattern of incidents without blaming one individual. 
+
 
