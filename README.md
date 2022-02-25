@@ -165,4 +165,14 @@ A timeout means taking a moment away from the project in order to take a breath
 ## Retrospective
 A retrospective focuses on identifying the contributing causes of an incident or pattern of incidents without blaming one individual. 
 
+## Key takeaway
+In this example, Sayid maintains a friendly tone, clearly explains the problem and its potential consequences, and makes a clear request of the recipients. The email is also brief and to the point. 
+To recap, effective escalation emails apply these five best practices:
+* Maintain a friendly tone 
+* State your connection to the project 
+* Explain the problem 
+* Explain the consequences 
+* Make a request 
+Escalation is a useful skill for solving problems quickly, and sending a strong escalation email that applies these best practices can help get your team the help it needs.
+
 
