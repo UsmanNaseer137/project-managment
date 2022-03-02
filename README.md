@@ -175,4 +175,44 @@ To recap, effective escalation emails apply these five best practices:
 * Make a request 
 Escalation is a useful skill for solving problems quickly, and sending a strong escalation email that applies these best practices can help get your team the help it needs.
 
+Project Management
+
+## Introduction: Quality management and continuous improvement
+
+## Key quality management concepts
+
+## Quality
+Quality is when you fulfill the outlined requirements for the deliverable and meet or exceed the needs or expectations of your customers. 
+
+## Quality Management
+1. Quality Standards
+2. Quality Planning
+3. Quality Assurance
+4. Quality Control
+
+## Quality Standards
+Quality standards provide requirements, specifications, or guidelines that can be used to ensure that products, processes, or services are fit for achieving the desired outcome.
+Like 
+Reusability Standards
+Reliability Standards
+
+
+
+## Quality planning
+Quality planning refers specifically to the actions of a project manager or the team to establish and conduct a process for identifying and determining exactly which standards of quality are in fact relevant to the project as a whole, and how to satisfy them. 
+
+To steer that discussion, you can ask yourself, 
+What outcome do my customers want at the end of this project? 
+What does quality look like for them?
+How can I meet their expectations? 
+How will I determine if the quality measures will lead to project success?
+
+
+## Quality Assurance
+The third concept of quality management is quality assurance. Quality assurance, often shortened to QA, is all about evaluating if your project is moving towards delivering a high-quality service or product.
+
+## Quality control
+Quality control involves monitoring project results and delivery to determine if they are meeting desired results or not. If not, then alternative actions should be taken. 
+
+
 
