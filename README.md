@@ -291,4 +291,40 @@ Users provide feedback after performing UAT. This feedback might include positiv
 User acceptance testing is a powerful tool to ensure that your project outcome is desirable and successful. Be sure to leave time in the schedule for proper testing and issue resolution. 
 
 
+Project Management
+
+
+## Continuous improvement and process improvement
+
+## Continuous improvement
+Continuous improvement is an ongoing effort to improve products or services. 
+
+Continuous improvement begins with recognizing when processes and tasks need to be created, eliminated, or improved. 
+
+## Process improvement
+Process improvement is the practice of identifying, analyzing, and improving existing processes to enhance the performance of your team and to develop best practices or to optimize consumer experiences. 
+
+## Control
+A control is an experiment or observation designed to minimize the effects of variables. 
+
+## Data-driven improvement frameworks
+
+Data-driven improvement frameworks are techniques used to make decisions based on actual data. 
+
+## DMAIC
+D-M-A-I-C, or DMAIC, stands for define, measure, analyze, improve, and control, and it maps out five steps that you can take when working toward continuous improvements. 
+
+## PDCA
+PDCA is a four-step process that focuses on identifying a problem, fixing that issue, assessing whether the fix was successful, and fine-tuning the final fix.
+
+Plan. Here, you'll identify the issue and root cause and brainstorm solutions to the problem. 
+Do, or fix the problem. 
+Compare your results to the goal to find out if the problem is fixed.
+Act, or fine-tune the fix to ensure continuous improvement. 
+
+## Differentiating projects from programs
+A project is one single-focused endeavor
+A program is a collection of projects
+A portfolio is a collection of projects and programs across the whole organization. 
+
 
