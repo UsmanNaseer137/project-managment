@@ -328,3 +328,33 @@ A program is a collection of projects
 A portfolio is a collection of projects and programs across the whole organization. 
 
 
+The purpose of a retrospective
+
+## Retrospective
+A retrospective is a workshop or meeting that gives project teams time to reflect on a project.
+
+## Retrospectives serve three main purposes: 
+First, they encourage team building, because they allow team members to understand different perspectives within their team. 
+Second, they facilitate improved collaboration 
+Third, they promote positive changes in future procedures and processes. 
+
+ The emphasis in retrospectives is on continuous improvement and change, instead of recycling old— and potentially bad—habits, procedures, and processes. 
+
+Some additional reasons that you might want to conduct a retrospective include 
+Missed deadlines or expectations
+Miscommunications between stakeholders. 
+You may also want to hold a retrospective at the end of a sprint.
+Product Launch & Landing
+Recored key lessons
+
+
+
+Retrospectives to be blameless
+Retrospectives are about reflecting on the positive aspects of projects too
+
+##  Conducting a retrospective
+There are a couple of things to keep in mind before you begin a retrospective. First, you'll want to maintain a positive tone throughout the process.
+
+In general, the retrospective should be considered a positive experience where team members feel comfortable sharing their feedback.
+
+
