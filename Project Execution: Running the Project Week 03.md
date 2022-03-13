@@ -57,3 +57,17 @@ The difference between the actual cost and the budget cost.
 
 ## Signal
 A signal is an observable change, and it can help you to determine the overall health of your project and identify early signs that something isn't quite right.
+
+
+## Data ethics
+
+As a project manager, data collection and analysis will be a key part of your projects. As you’ve learned, you’ll collect data from a variety of sources, including focus groups, interviews and questionnaires. The data you collect will usually hold PII (personally identifiable information)—information that could be used to directly identify, contact, or locate an individual. A lot of times, you will also need to report on the data you collect to stakeholders, customers, and your project team. Collecting, analyzing, and sharing this data in an ethical way is extremely important for maintaining the integrity of your organization, your projects, and your position.
+Data ethics is the study and evaluation of moral challenges related to data collection and analysis. This includes generating, recording, curating, processing, sharing, and using data in order to come up with ethical solutions.
+Businesses apply data ethics practices so they can:
+* Comply with regulations 
+* Show that they are trustworthy 
+* Ensure fair and reasonable data usage 
+* Minimize biases 
+* Develop a positive public perception 
+Data ethics is rooted in several principles. In this reading, we will focus on two of these principles: data privacy and data bias.
+
