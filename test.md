@@ -25,7 +25,8 @@ Productivity metrics allow you to track the effectiveness and efficiency of you
 ## MileStone
 a milestone is an important point within the project schedule that indicates progress and usually signifies completion of a deliverable or phase of the project. 
 
-## Task project task is an activity that needs to be accomplished within a set period of time. 
+## Task
+Project task is an activity that needs to be accomplished within a set period of time. 
 
 ## Projection
  A projection is how you predict an outcome based on the information you have now. For example, you can predict that with the resources you have at the start of the project, the project will be completed in six months.
@@ -43,11 +44,14 @@ such as the
 ## Changes
 Changes show any inconsistencies from the initial requirements of the project.
 
-## Change Log A change log is a record of all of the notable changes on a project.
+## Change Log
+A change log is a record of all of the notable changes on a project.
 
-## Issue An issue is a known and real problem that may affect the ability to complete a task. 
+## Issue
+An issue is a known and real problem that may affect the ability to complete a task. 
 
-## Cost variance The difference between the actual cost and the budget cost.
+## Cost variance
+The difference between the actual cost and the budget cost.
 
 ##  Discerning important data
 
