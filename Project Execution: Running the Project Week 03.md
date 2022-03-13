@@ -96,3 +96,14 @@ is the tendency for different people to observe things differently. For example,
 is the tendency to always interpret situations that don’t have obvious answers in a strictly positive or negative way, when, in fact there is more than one way to understand the data. Data that does not provide an obvious set of conclusions makes some people feel anxious, which can lead to interpretation bias. For example, a team member might interpret inconclusive survey results negatively, while other team members might be able to think more carefully and assess the data from different angles.  
 ## Confirmation bias 
 is the tendency to search for or interpret information in a way that confirms pre-existing beliefs. For example, you might ask only specific stakeholders for feedback on parts of your project because you know they are the most likely to have the same perspective as you. 
+
+## Using data analysis to inform decisions
+
+## Data analysis
+Data analysis is the process of collecting and organizing information to help draw conclusions. 
+
+## Quantitative data 
+Quantitative data includes statistical and numerical facts about the number of rider requests that came in. 
+
+## Qualitative data
+The other data is qualitative data, which describes the subjective qualities or things that can't be measured with numerical data, like user feedback about the service or product. 
