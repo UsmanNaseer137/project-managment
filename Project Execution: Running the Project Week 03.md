@@ -81,3 +81,18 @@ Free security tools, like encrypted storage solutions and password managers, can
 ## Anonymizing data.
 Data anonymization refers to one or more techniques such as blanking, hashing, or masking personal and identifying information to protect the identities of people included in the data. This helps protect individuals’ personal information by keeping them anonymous. Once the information has been anonymized, it can then be used and shared freely. Types of data that should be anonymized include names, telephone numbers, social security numbers, email addresses, photographs, and account numbers. 
 
+
+## Data bias (Urdu:Tasab)
+Another important data ethics practice is making sure that the data you collect does not indicate any biases. Data bias is a type of error that tends to skew results in a certain direction. Maybe the questions on your survey had a particular slant to influence answers, or maybe your sample group was not fully representative of the population you want to study. Bias can also happen if a sample group lacks inclusivity. For example, if your sample does not include people with disabilities. The way you collect data can also bias a dataset. Say you give people only a short time to answer questions, this can lead to rushed responses. When people are rushed, they tend to make more mistakes, which can affect the quality of their data and create biased outcomes. As a project manager, you have to think about bias and fairness from the moment you start collecting data to the time you present your conclusions. 
+
+
+## Types of biases 
+There are different types of biases to keep in mind when setting up your data collection processes. Here are four of the most common types of biases that could impact your data:
+## Sampling bias 
+is when a sample is not representative of the population as a whole. For example, maybe your sample did not include people above the age of 65. Or maybe you excluded people from certain socioeconomic groups. 
+## Observer bias 
+is the tendency for different people to observe things differently. For example, stakeholders from different parts of the world might view the same data differently and draw different conclusions from it.  
+## Interpretation bias
+is the tendency to always interpret situations that don’t have obvious answers in a strictly positive or negative way, when, in fact there is more than one way to understand the data. Data that does not provide an obvious set of conclusions makes some people feel anxious, which can lead to interpretation bias. For example, a team member might interpret inconclusive survey results negatively, while other team members might be able to think more carefully and assess the data from different angles.  
+## Confirmation bias 
+is the tendency to search for or interpret information in a way that confirms pre-existing beliefs. For example, you might ask only specific stakeholders for feedback on parts of your project because you know they are the most likely to have the same perspective as you. 
