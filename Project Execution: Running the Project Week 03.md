@@ -71,3 +71,13 @@ Businesses apply data ethics practices so they can:
 * Develop a positive public perception 
 Data ethics is rooted in several principles. In this reading, we will focus on two of these principles: data privacy and data bias.
 
+## Data privacy
+Data privacy is a key part of data ethics. Data privacy deals with the proper handling of data. This includes the purpose of data collection and processing, privacy preferences, the way organizations manage personal data, and the rights of individuals. It focuses on making sure the ways we collect, process, share, archive, and delete data are all in accordance with the law.
+As a project manager, it is your responsibility to protect the data you collect. You can help ensure the privacy of data collected from users, stakeholders, and others for your projects by:
+## Increasing data privacy awareness. 
+Make sure every member of your project team—plus the vendors, contractors, and other stakeholders from outside of your company—are made aware of your organization's data security and privacy protocols. 
+## Using security tools. 
+Free security tools, like encrypted storage solutions and password managers, can decrease your project’s vulnerability to a data breach. In a lot of applications, like ones that are part of Google Workspace and Microsoft OneDrive, privacy settings can be adjusted to only give access to specific individuals. 
+## Anonymizing data.
+Data anonymization refers to one or more techniques such as blanking, hashing, or masking personal and identifying information to protect the identities of people included in the data. This helps protect individuals’ personal information by keeping them anonymous. Once the information has been anonymized, it can then be used and shared freely. Types of data that should be anonymized include names, telephone numbers, social security numbers, email addresses, photographs, and account numbers. 
+
