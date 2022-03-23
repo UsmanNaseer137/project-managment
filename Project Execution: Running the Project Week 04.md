@@ -20,3 +20,20 @@ Benifits:
 3. Structure & Clarity : Structure and clarity refers to an individual's understanding of job expectations, knowledge of how to meet those expectations and the consequences of their performance.
 4. Meaning : finding a sense of purpose either in the work itself or in the results of that work.
 5. Impact : Our researchers define impact as the belief that the resu	lts of one's work matters and creates change. 
+
+
+## Leading high-functioning teams
+
+## They create systems that turn chaos into order; 
+--You can do this by creating, implementing, and improving: standardize, measurable, repeatable and scalable workflows and processes for your team.
+## They communicate and listen;  
+-- For example, you might communicate with the team via daily or weekly status update emails and regular team meetings. 
+-- it's also your responsibility to regularly connect with individual teammates.
+## They promote trust and psychological safety;
+--Team members need to trust that they're safe and speaking up if they have feedback or concerns about the project as a whole or about their individual tasks.
+## They demonstrate empathy and create motivation;
+--You can demonstrate empathy for your teammates by being present, listening, and asking questions. 
+## they delegate responsibility and prioritize;
+--By delegating responsibility for specific tasks to individuals on your team, you provide your teammates with the opportunity to add value using their particular set of skills. 
+## They celebrate team's success.
+--This includes celebrating big and small wins like reaching a milestone or receiving positive feedback from stakeholders.
