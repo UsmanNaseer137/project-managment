@@ -37,3 +37,9 @@ Benifits:
 --By delegating responsibility for specific tasks to individuals on your team, you provide your teammates with the opportunity to add value using their particular set of skills. 
 ## They celebrate team's success.
 --This includes celebrating big and small wins like reaching a milestone or receiving positive feedback from stakeholders.
+
+## Air Cover
+Air cover refers to support for and protection of a team in the face of out-of-scope requests or criticism from leadership. 
+
+## Key takeaway
+Providing air cover for your team takes practice. It requires a careful balance of the needs of your stakeholders and the needs of your project team. As you become more experienced in leading projects, you will develop a stronger sense of how to manage nuanced situations like these and provide the air cover your team needs to do their best work. 
