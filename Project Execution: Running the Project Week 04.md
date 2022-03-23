@@ -102,3 +102,7 @@ Inclusion is what the team does with that diversity of thought and perspective.
 2. creating equal opportunity to succeed
 --You do this through regular communication, accessible documentation, and regular check-ins with the team to listen, share information, ask and answer questions and provide support. 
 3. inviting and integrating diverse perspectives. 
+
+## Framework 
+A framework like this one can help you feel better-equipped to make ethical decisions regarding your project and team, which is a central component of ethical leadership.
+Like so much of project management, ethical leadership takes diligence and practice, and it is crucial to build this skill. As you become more comfortable leading project teams, you will strengthen your ability to make decisions that you can feel good about. Gaining trust and respect from the people you work with can make it easier to influence without authority. If those around you trust your decision-making, they may be more likely to try to help you achieve project goals, even if you aren’t their direct manager. 
