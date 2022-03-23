@@ -106,3 +106,29 @@ Inclusion is what the team does with that diversity of thought and perspective.
 ## Framework 
 A framework like this one can help you feel better-equipped to make ethical decisions regarding your project and team, which is a central component of ethical leadership.
 Like so much of project management, ethical leadership takes diligence and practice, and it is crucial to build this skill. As you become more comfortable leading project teams, you will strengthen your ability to make decisions that you can feel good about. Gaining trust and respect from the people you work with can make it easier to influence without authority. If those around you trust your decision-making, they may be more likely to try to help you achieve project goals, even if you aren’t their direct manager. 
+
+## Steps to effective influencing
+
+## influencing
+ Influencing is the ability to alter another person's thinking or behaviors.
+
+Leadership expert, Dr. Jay A Conger identifies the steps to effective influencing as: 
+## Establish credibility
+--During this step, you make the case for why your audience should listen to you.
+--According to Dr. Conger, credibility comes from two sources, expertise, and relationships.
+
+## Frame for common ground
+-- this step, you'll make the case for how your idea can benefit your audience. 
+
+## Provide evidence 
+-- In this step, you'll make the case for how your idea can benefit your audience. 
+
+## Connect emotionally.
+--  In this step, you'll demonstrate to your audience that you're emotionally committed to your idea and you'll do your best to match their emotional state. 
+
+## Mistakes:
+--audience too aggressively
+--resist compromise, which is crucial for any kind of mutual agreement.
+--They'll focus too much on developing their argument for the idea and not enough time establishing credibility, framing for common ground, providing evidence and connecting emotionally
+--they'll assume that they can work out an agreement through just one conversation.
+
