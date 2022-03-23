@@ -71,3 +71,34 @@ Team dynamics refer to the forces both conscious and unconscious, that impact te
 -- First, teams have individuals with different skill sets, varying degrees of autonomy, and competing priorities.
 -- Create a collaborative and psychologically safe environment.
 -- Understanding and managing team dynamics can also help you understand how to motivate your team.
+
+## Ethical and inclusive leadership
+
+## Ethical Leadership
+Ethical leadership is a form of leadership that promotes and values honesty, justice, respect, community and integrity. 
+--defining and aligning values within your team 
+--demonstrating how adhering to those values benefits the mission of the organization.
+
+## Crate forums
+--Raise ViewPoints
+--Feel heard
+--Recive follow-up on their concerns
+
+--If ethical leadership's aim is to create forums where employees' concerns can be heard, inclusive leadership aims to put what we've heard into action to create an environment that encourages. And empowers each and every member of our community. 
+
+## Inclusive leadership
+Inclusive leadership is when everyone's unique identity, background and experiences are respected, valued and integrated into how the team operates. 
+
+## Diversity
+Inclusive leadership is related to diversity in that diversity is the set of differences each of us possesses, whether visible or invisible that gives us each a unique perspective on the world and our work.
+
+## Inclusion 
+Inclusion is what the team does with that diversity of thought and perspective.
+
+
+## At Google, we've identified three ways that managers can lead inclusively. These include 
+1. fostering a culture of respect'
+--Creating an environment in which team members feel comfortable speaking up with concerns, and recognizing team contributions regularly.
+2. creating equal opportunity to succeed
+--You do this through regular communication, accessible documentation, and regular check-ins with the team to listen, share information, ask and answer questions and provide support. 
+3. inviting and integrating diverse perspectives. 
