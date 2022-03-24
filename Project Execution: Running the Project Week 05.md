@@ -60,3 +60,28 @@
 ##inclusive. 
 --Inclusivity is the practice or policy of including people who might otherwise be excluded or marginalized. 
 -- A key component of inclusivity is ensuring that your meetings and presentations are accessible. 
+
+
+## Checklist for productive meetings
+
+## Before the meeting
+--Prepare an agenda that states the purpose and goals of the meeting, and share the agenda with participants.
+--Only invite people who need to be there and who can help reach the goals of the meeting. Make participants’ roles and responsibilities for the meeting clear. Add non-essential participants as optional to the meeting invitation.
+--If you are working with people in different time zones, share the time zone burden by alternating recurring meeting times.
+--Evaluate the need for the meeting and cancel if it isn’t necessary. Consider whether the meeting content can be covered via email. 
+--Schedule shorter meetings. Meetings tend to expand to the time allotted to them, so try to get more done in a shorter amount of time.
+--Set aside time to prepare for the meeting. Read the necessary materials, review the agenda, and come ready to participate. 
+
+
+## During the meeting
+--At the beginning of the meeting, clearly state the meeting goals. Stick to the agenda throughout the meeting to avoid getting derailed. For recurring meetings, review the action items from the previous meeting to ensure accountability. 
+--Encourage participants to put phones and laptops away during meetings and silence notifications, if possible.
+--Practice and demonstrate active listening. Respond verbally (e.g., “That makes sense. Tell us more.”) and non-verbally (through head nodding and eye contact) to show engagement.  
+--Encourage participation and give everyone a chance to speak, including remote participants. Ask open-ended questions like, “What does everyone think?” instead of “Does everyone agree?”
+--Help everyone relax and feel more comfortable by starting meetings with open-ended, personal questions like, “How was your weekend?”
+--Capture key points, action items, and decisions from the meeting, and assign action items to the appropriate meeting participants.
+
+## After the meeting
+--Recap key decisions, action items, timelines, and notes and send out to participants.
+--Schedule necessary follow-up meetings with relevant context.
+--Assess the need for and frequency of recurring meetings. Schedule meetings less frequently, if possible.
