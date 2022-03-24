@@ -132,3 +132,44 @@ Leadership expert, Dr. Jay A Conger identifies the steps to effective influencin
 --They'll focus too much on developing their argument for the idea and not enough time establishing credibility, framing for common ground, providing evidence and connecting emotionally
 --they'll assume that they can work out an agreement through just one conversation.
 
+## Using sources of power to influence
+
+Most power sources fall into two buckets, organizational and personal.
+
+## Organizational source of power
+## Role
+--First, we have your role, which refers to your position within an organization, or team. 
+
+## Information
+-- Information is another source of organizational power, which refers to your level of access, and control over information. 
+
+## Network
+-- This refers to people you're connected with professionally and personally.
+
+## Reputation
+--Lastly, we have reputation, which refers to how others perceive (samajna) you overall.
+
+## Personal source of power
+## Knowledge
+--Knowledge refers to the power that you draw from your expertise in certain subjects, your unique abilities, and skill sets, and even your ability to learn new things.
+## Expressiveness
+--Expressiveness refers to your ability to communicate with others. 
+## History
+--History refers to the level of personal history there is between yourself and another person.
+## Character
+--Character refers to other people's view of the qualities that make you: you. Like, honesty, integrity, kindness, and so much more.
+
+
+## Key takeaway
+In this influencing statement, the project manager:
+
+Provided evidence from company surveys to set the stage for her proposal.
+
+Framed for common ground by noting how a new onboarding process might increase employee productivity.
+
+Established credibility by outlining her previous experience with launching similar processes.
+
+Connected emotionally by encouraging her audience to reflect on past experiences they may have endured as a new hire. 
+
+By opening with a strong influencing statement, you can set yourself up for a successful conversation that is more likely to persuade your audience and achieve your goals.
+
