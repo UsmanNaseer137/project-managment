@@ -68,3 +68,34 @@ Reduction in overhead
 Reduction in technical issues
 
 Time saved
+
+## The closing process for the team
+
+## Retrospective 
+retrospective is a meeting aimed to discuss successes, failures, and possible improvements on the project. 
+
+## Benifits
+1. Encourge Team Building
+2. Facilitate improved collaboration
+3. Promoto positive changes
+
+## The closing process for the project manager
+
+## Project Closeout report
+
+A project closeout report is a document created by project managers for project managers. A project closeout report serves three major purposes.
+
+1. First, it's a blueprint to document what the team did, how they did it, and what they delivered. 
+
+2. Second, it provides an evaluation of the quality of work. 
+3. And third, it evaluates the project's performance with respect to budget and schedule. 
+
+
+## Project Closeout Report 
+1. Executive Summary 
+2. Key Accomplishments 
+3. Lasson Learned : What went well? What went wrong? process did not work well, problems,techniqal challanges
+4. Open items : Things you did't get , ideas , more time
+5. Next Step : Future consideration
+6. Project timeline
+7. Resource & Archive 
