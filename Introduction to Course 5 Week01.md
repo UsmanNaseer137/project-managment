@@ -1,14 +1,13 @@
 ## Introduction to Course 5
 
-## A brief history of Agile
-
-## History of agile
 ## WaterFall Vs Agile
 1. Waterfall is a popular project management methodology that refers to the sequential or linear ordering of phases. 
 2. The term "agile" refers to being able to move quickly and easily.
 3. It also refers to flexibility and the willingness and ability to change and adapt.
 4. Projects that adopt an Agile project management take an iterative approach.
 5. which means the project processes are repeated often many times during the life cycle of the project. 
+6. WaterFall have huge number of documentation But in Agile, there's an emphasis on real- time, person-to-person conversations.
+7.  In Waterfall projects, you often don't release the deliverable until the very end. Agile is just as exciting, but has smaller more frequent releases. 
 
 ## Iterations 
 1. In this case, the team operates within many shorter blocks of time, called iterations.
@@ -42,9 +41,8 @@ The manifesto is a collection of four values and 12 principles that define the m
 
 ## Aspects of a project
 1. Requirements : Requirements are conditions that must be met or tasks that must be finished to ensure the successful completion of the project.
-2. Documentatoin
+2. Documentatoin : All projects require documentation, project plans, stakeholder maps, schedules, charters, contracts—the list goes on and on. 
 3. Deliverables
-
-## Introdue the agile values and principles
-
-## Agile in different industries
+## Deliverable
+A deliverable is a tangible outcome from a project. 
+![HistoryOfAgile](https://github.com/abdullahbannuwala/project-managment/blob/main/github%20history01.PNG)
