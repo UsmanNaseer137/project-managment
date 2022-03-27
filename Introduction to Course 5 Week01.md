@@ -25,6 +25,9 @@ Agile project management is an approach to project and team management based on 
 ## Manifesto
 The manifesto is a collection of four values and 12 principles that define the mindset that all Agile teams should strive for.
 
+## History of agile
+![HistoryOfAgile](https://github.com/abdullahbannuwala/project-managment/blob/main/github%20history01.PNG)
+
 
 ## Introdue the agile values and principles
 
