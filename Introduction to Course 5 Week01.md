@@ -27,8 +27,13 @@ The manifesto is a collection of four values and 12 principles that define the m
 
 ## History of agile
 ![HistoryOfAgile](https://github.com/abdullahbannuwala/project-managment/blob/main/github%20history01.PNG)
+1. Agile has been so successful in the software industry that its values, principles, and frameworks have been applied to nearly every industry.
+2. In fact, the Agile methods that you're going to learn also draw heavily on Lean manufacturing principles that originated in Toyota's car factories in the 1930s. 
 
-
+## Distinguishing Agile from Waterfall
+1. Agile was created in response to the strict linear process of Waterfall. 
+2. While Waterfall aims for predictability and tries to avoid change
+3. Agile embraces the reality that the world, markets, and users are uncertain and unpredictable.
 ## Introdue the agile values and principles
 
 ## Agile in different industries
