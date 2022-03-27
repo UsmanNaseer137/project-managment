@@ -45,4 +45,4 @@ The manifesto is a collection of four values and 12 principles that define the m
 3. Deliverables
 ## Deliverable
 A deliverable is a tangible outcome from a project. 
-![HistoryOfAgile](https://github.com/abdullahbannuwala/project-managment/blob/main/github%20history01.PNG)
+![HistoryOfAgile](https://github.com/abdullahbannuwala/project-managment/blob/main/github%20history02.PNG)
