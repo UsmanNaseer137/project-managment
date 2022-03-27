@@ -49,3 +49,6 @@ A deliverable is a tangible outcome from a project.
 
 ## The four values of the Agile Manifesto
 1. The Agile Manifesto was written in 2001 and brings together the collective wisdom of the people who developed it from their vast experience and thought leadership in the tech industry.
+
+![HistoryOfAgile](https://github.com/abdullahbannuwala/project-managment/blob/main/agilemanifesto.PNG)
+
