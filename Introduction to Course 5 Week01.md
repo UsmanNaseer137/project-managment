@@ -60,3 +60,17 @@ A deliverable is a tangible outcome from a project.
 2. At its core, this value stresses people communicating with each other over using lots of processes and tools to force things to happen in a certain way.
 3. Agile Work togather & collaboration & help each other & Agile also values individual perspectives and creativity. 
 
+## Working Software Over Comprehensive Documentation
+1. The second value emphasizes working software over comprehensive documentation, meaning that teams should prioritize spending time working on things that actually create value and avoid spending any more time than they really need on debating, writing, and reviewing documents. 
+2. Working on things that create value.
+
+## Customer Collaboration Over Contract Negotiation
+1. On to the third value: customer collaboration over contract negotiation.
+2. In Agile projects, the customer's satisfaction is considered the highest priority.
+3. Collaboration with customers early and often.
+4. React & Adapt the feedback.
+
+## Responding to change over following a plan.
+1. Change are inevitable.
+
+
