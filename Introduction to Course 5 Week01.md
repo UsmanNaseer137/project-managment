@@ -34,6 +34,17 @@ The manifesto is a collection of four values and 12 principles that define the m
 1. Agile was created in response to the strict linear process of Waterfall. 
 2. While Waterfall aims for predictability and tries to avoid change
 3. Agile embraces the reality that the world, markets, and users are uncertain and unpredictable.
+4. For example, your customer might say they want feature A, but when the final result is delivered, they realize they actually wanted feature B.
+5. Agile aims to solve that problem by getting customer feedback more quickly to make sure that the team is building what the customer really wants. 
+6. Part of working with an Agile mindset is always seeking out ways to work more efficiently.  We do this by finding ways to streamline processes without reducing product quality or value. 
+7. The key to streamlining is to reduce waste.
+8. In Agile, requirements are treated as more dynamic and expected to change as the team receives feedback and new information. 
+
+## Aspects of a project
+1. Requirements : Requirements are conditions that must be met or tasks that must be finished to ensure the successful completion of the project.
+2. Documentatoin
+3. Deliverables
+
 ## Introdue the agile values and principles
 
 ## Agile in different industries
