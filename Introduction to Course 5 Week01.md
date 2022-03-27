@@ -55,4 +55,8 @@ A deliverable is a tangible outcome from a project.
 ![HistoryOfAgile](https://github.com/abdullahbannuwala/project-managment/blob/main/agilemanifesto.PNG)
 ![HistoryOfAgile](https://github.com/abdullahbannuwala/project-managment/blob/main/menifesto2.PNG)
 
+## Individual & Interactions Over Processes & Tools
+1. First, the Manifesto emphasizes individuals and interactions over processes and tools.
+2. At its core, this value stresses people communicating with each other over using lots of processes and tools to force things to happen in a certain way.
+3. Agile Work togather & collaboration & help each other & Agile also values individual perspectives and creativity. 
 
