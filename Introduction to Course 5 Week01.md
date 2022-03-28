@@ -74,5 +74,5 @@ A deliverable is a tangible outcome from a project.
 1. Change are inevitable.
 
 ## The 12 principles of the Agile Manifesto
-![HistoryOfAgile](https://github.com/abdullahbannuwala/project-managment/blob/main/menifesto2.PNG)
+![HistoryOfAgile](https://github.com/abdullahbannuwala/project-managment/blob/main/agilevalues.PNG)
 
