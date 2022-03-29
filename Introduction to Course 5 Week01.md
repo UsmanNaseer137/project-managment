@@ -90,7 +90,7 @@ A deliverable is a tangible outcome from a project.
 3. You can achieve collaboration by making sure that business people work near the development team, ideally in the same office or virtual space.
 
 
-## Team Dynamic & Cultuer
+## Team Dynamic & Cultuer : Individual & Interactions Over Processes & Tools
 1. Build project around the motivated individuals , give enviormnet , support trust.
 2. The most effective way of converying information is face to face conversation.
 3. Agile promote sustanable enviroment . The sponsor , developers, users should be able to maintain a contant pace indefinitly.
