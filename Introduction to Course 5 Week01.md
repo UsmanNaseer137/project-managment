@@ -87,3 +87,11 @@ A deliverable is a tangible outcome from a project.
 ## Business Collaboration : Collaborating with your customers helps the team get critical business information immediately by allowing them to adjust and adapt to any new information instantly.
 1. Welcome changing requirements, even late in development. Agile processes harness change for customer's competitive advantage.
 2. Business people & developer must work together daily thoughout the project.
+3. You can achieve collaboration by making sure that business people work near the development team, ideally in the same office or virtual space.
+
+
+## Team Dynamic & Cultuer
+1. Build project around the motivated individuals , give enviormnet , support trust.
+2. The most effective way of converying information is face to face conversation.
+3. Agile promote sustanable enviroment . The sponsor , developers, users should be able to maintain a contant pace indefinitly.
+4. The best architecture, requirement and desgin emerge from self-organizing teams.
