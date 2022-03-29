@@ -76,3 +76,14 @@ A deliverable is a tangible outcome from a project.
 ## The 12 principles of the Agile Manifesto
 ![HistoryOfAgile](https://github.com/abdullahbannuwala/project-managment/blob/main/agilevalues.PNG)
 
+## Value Delivery  : Delivery the work quickly to get the feedback & mitigate time risk.
+1. Satisfy customer by early & continous delivery of valueble software.
+2. Deliver working software/Deliverable/Solutions frequently.
+3. Working software is the primary measure of progress.
+4. Simplicity allows a team to work on the things that matter most.
+5. Team only works on approved features and doesn't spend time on unnecessary ones. 
+6. Another example might be reserving ten percent of the team's time to work on bug fixing or polishing a process, which should help you go faster in future iterations. 
+
+## Business Collaboration : Collaborating with your customers helps the team get critical business information immediately by allowing them to adjust and adapt to any new information instantly.
+1. Welcome changing requirements, even late in development. Agile processes harness change for customer's competitive advantage.
+2. Business people & developer must work together daily thoughout the project.
