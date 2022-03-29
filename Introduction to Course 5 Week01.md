@@ -143,3 +143,43 @@ Uncertainty refers to the lack of predictability or high potential for surprise.
  ## Ambiguity
   Ambiguity refers to the possibility of misunderstanding the conditions and root causes of events or circumstances
 
+## Applying Agile in a VUCA environment
+1. When we get started on a new project, it's helpful to examine the environment and conditions in which the project exists before we decide the best approach to use. 
+2. If your project environment has high levels of volatility, uncertainty, complexity, and ambiguity, then it's a good sign that you should consider an Agile approach. 
+3. While an Agile approach is not a perfect solution that will get rid of VUCA, it will lead to better outcomes by giving you and your team tools and systems to mitigate the risks that VUCA presents.
+
+## Introduction to Scrum
+1. Scrum refers to a formation in rugby where all of the players on the team lean forward, lock their heads together, and then work as one unit to try and gain precious yards towards the scoring line. 
+2. If you work in Agile project management, it's highly likely that you'll use Scrum or an approach that is based on Scrum.
+3. In the 2019 State of Agile report, 72% of teams using Agile methods were using Scrum or a hybrid.
+4. When you use Scrum for project management, you form a team that will work together to quickly develop and test a deliverable. 
+5. The work is completed in short cycles, and the team meets daily to discuss current tasks and clear up anything that's blocking their progress.
+
+## Backlog
+1. The Backlog is the central artifact in Scrum, where all possible ideas, deliverables, features, or tasks are captured for the team to work on. 
+2. It's prioritized and proactively managed by the team continuously throughout the life of the project.
+
+## Scrum
+1. The Sprint is the name of the time-boxed period in Scrum where work is done. 
+2. This Sprint can be between one and four weeks long, but most Sprints are around two weeks. This is often called the "iteration."
+
+## Daily Scrum
+Daily Scrum, also called the Stand-up. This is where the team meets for 15 minutes or less every day of the Sprint to inspect their progress toward their goal.
+
+## Scrum Master
+1. This role is responsible for ensuring that the team lives Agile values and principles
+2. follows the processes and practices that the team agreed to
+3. sharing information to the larger project team
+4. and they also help the team focus on doing their best work.
+ 
+ ## Product Owner
+ 1. The other notable role in Scrum is the Product Owner, who is responsible for maximizing the value of the product and the work of the team.
+ 2. The Product Owner owns the inventory of work and has the final say on how to prioritize the work. 
+
+## Development Team
+1. Development Team is responsible for how a team will deliver that product.
+
+## Reasons for scrum popularity
+1. First, it has clear roles and responsibilities for the folks on the team while continuously emphasizing the power of the team as a whole. 
+2. Scrum has very regular and predictable meetings and delivery schedules with predefined agendas and outcomes for the meetings, making it easy to teach new team members.
+4. It supports and reinforces the Agile values and principles while adding some structure and foundations that help new Agile teams get started and more experienced teams get better, and it's all free and open for all to use. 
