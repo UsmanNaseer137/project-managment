@@ -216,3 +216,5 @@ Organizational transfer of learning: On Scrum Teams, everyone is encouraged to l
 The authors’ main point was that “each element, by itself, does not bring about speed and flexibility. But taken as a whole, the characteristics can produce a powerful new set of dynamics that will make a difference.” Though these concepts were first introduced in 1986, they still remain remarkably true for Scrum Teams today. 
 
 
+## Introduction to Kanban, XP, and Lean
+![agileumbrla](https://user-images.githubusercontent.com/74914096/160614789-ec3ad111-15e3-423f-972f-2adcafecbcb9.PNG)
