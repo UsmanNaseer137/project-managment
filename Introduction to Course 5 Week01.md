@@ -218,3 +218,63 @@ The authors’ main point was that “each element, by itself, does not bring ab
 
 ## Introduction to Kanban, XP, and Lean
 ![agileumbrla](https://user-images.githubusercontent.com/74914096/160614789-ec3ad111-15e3-423f-972f-2adcafecbcb9.PNG)
+
+## Kanban
+1. Japanese work
+2. Kan = Sign  , Ban = Board
+3. Provides transparent visual feedback.
+4. Kanban boards or charts display the progress of a project as to do in progress and done.
+5. The Kanban method ensures that the project team only accepts a sustainable (Doable)  amount of in progress work. 
+6. This means the amount of in progress tasks are limited to what the team can actually handle during a certain amount of time. 
+7. This is called the work-in- progress limit, or WIP limit. The WIP limit is decided on by the team. 
+8. WIP limit : Tasks are limited to what the team can actually handle during  a certain amount of time.
+9. The team members add new tasks to be completed only after they finished their previous task and are below the WIP limit. 
+
+![image](https://user-images.githubusercontent.com/74914096/160616312-29a99672-7ee3-4bc8-8758-a0d6811758c6.png)
+
+## Flow
+This goal of trying to maximize efficiency is called flow, and is a core principle of Kanban.
+
+## Extreme Programming or XP
+1. The XP methodology aims to improve product quality and the ability to respond to changing customer needs. 
+2.  It does this by taking best practices for the development process to extreme levels. 
+
+## XP Activities
+## Designing
+1. XP wants to ensure that all of the pieces of the product will fit together properly.
+
+## Coding: 
+1. Code is the language that's used to write software programs.
+2. XP demands clear and concise code, so that others can easily read and understand the program. 
+
+## Testing
+1. Testing: like I described earlier means checking the product for flaws so they don't end up in the final product. In XP, more is better. 
+2. The goal is to test for and eliminate any flaws in a feature before building it and continuing on. 
+
+## Listen
+1. Testing also means checking to make sure the product features, meet the customer's requirements. 
+2. Which leads us to listening. Which is about listening to the customer and ensuring that the requirements are integrated into the product. 
+
+## XP innovative programming
+1. Pair Programming
+2. Continuous integration and continuous refactoring. CI/CD
+3. Avoid big design up front. This relates to designing and means the design should be just enough to get started and should be continuously improved as the product evolves.
+4. Write tests, not requirements.
+
+## Lean
+1. In the context of Lean 6 Sigma. Lean methodology consists of five principles that serve as a recipe for improving project outcomes. 
+
+## 5 Principles of Lean
+1. Define Value : Define value means identifying and focusing on what the customer wants and including the customer in the process. 
+2. Map Value Stream : Mapping out the process or stream, including all the steps involved in producing value for the customer.
+3. Create Flow : Ensuring the product flows through the value stream efficiently, continuing to eliminate waste throughout the cycle.
+4. Establish Pull : Make sure the customer is pulling on the product or asking for it throughout the value stream. They might pull or ask for features and incremental deliveries. 
+5. Pursue Perfection : pushing your team to continuously improve the first four process steps. 
+
+## Blending project management approaches
+1. First, we explored Agile as a way of thinking about the project-delivery process through the values and principles outlined in the Agile Manifesto.
+2. we explored Agile through different project delivery frameworks and methods like Kanban, XP, and Lean, and especially through Scrum. 
+3. The the real power of Agile comes from not only adopting certain processes or strategies but also from adopting a certain kind of mindset—one that is necessarily different from the traditional Waterfall models. 
+
+## Reason to blend (Mix) waterfall and agile styles
+1. Your stakeholders, customers, or sponsors are more comfortable with traditional approaches and using workflows, or delivering traditional work products is easier for them to understand and follow, but your project team is already established in Scrum and they wish to continue.
