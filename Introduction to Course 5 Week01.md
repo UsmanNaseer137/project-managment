@@ -95,3 +95,51 @@ A deliverable is a tangible outcome from a project.
 2. The most effective way of converying information is face to face conversation.
 3. Agile promote sustanable enviroment . The sponsor , developers, users should be able to maintain a contant pace indefinitly.
 4. The best architecture, requirement and desgin emerge from self-organizing teams.
+
+## Example
+An example of emphasizing effective team culture would be to ask the team what kind of equipment they need to do their job and then giving them those tools.
+
+## Make sure you team 
+1. Motivated to do the right things.
+2. Feel trusted to do the right things.
+3. Has the resources & space to work closely togather on their goals.
+4. Work at a sustainable pace.
+
+## Retrospective & Continous Learning
+1. At regular intervals the team reflects on how to become more effective then tunes and adjusts its behavior accordingly.
+2.  This one sits on its own because I want to draw attention to how important it is for Agile teams to continuously learn and adapt to what's working and what's not working for them. 
+
+## Questions:
+1. How is the team doing?
+2. Are the customer happy?
+3. Are there processes we could optimize ? Are tools working for us.?
+4. Are we following the value?
+5. Are we accumulating any debt, technical or otherwise?
+
+## Adopting an Agile mindset
+
+## Agile 
+1. Agile is about delivering value in a world with high degrees of uncertainty, risk, and competition.
+2. Agile works best in industries or projects that are susceptible to or that encourage change and uncertainty.
+3. Bio, Media, Food , Fashion
+
+## VUCA
+1. That concept is called VUCA, and it can help you decide which project management approach is best for you. The US military War College developed a concept called VUCA, spelled V-U-C-A. VUCA is an acronym (short form) that defines the conditions that affect organizations in a changing and complex world.
+2. It's a concept that was developed to deal with these forces in a changing and uncertain world. 
+3. Businesses can apply the concept of VUCA as a tool for determining how best to approach projects. 
+
+
+V = Volatility  U= Uncertainty  C= Complexity A= Ambiguity
+
+## Volatility
+Volatility refers to the rate of change and churn (Urdu : Ghumana ) in a business or situation. 
+
+## Uncertainty
+Uncertainty refers to the lack of predictability or high potential for surprise.
+
+## Complexity
+ Complexity refers to the high number of interrelated forces, issues, organizations, and factors that would influence the project.
+ 
+ ## Ambiguity
+  Ambiguity refers to the possibility of misunderstanding the conditions and root causes of events or circumstances
+
