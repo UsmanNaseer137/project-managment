@@ -207,3 +207,28 @@ Sprints enable predictability by ensuring inspection and adaptation of progress 
 Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
 
 A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.
+
+## Sprint planning
+1. For Sprint Planning, the entire Scrum team comes together and meets to confirm how much capacity, meaning time and people, are available during this Sprint, and then they identify what items from the Backlog will be done during the Sprint.
+2. This becomes the Sprint Backlog, and ultimately, the Sprint goal. 
+
+## Questions
+1. Who is available during this Sprint?
+2. Are there any vacations or conflicts that we should know about?
+3. What has been our average velocity, meaning how many points or Backlog items have we been able to complete in a single Sprint in the past?
+4. What can and should be accomplished by the team in this upcoming Sprint?
+5. What is the ultimate Sprint goal? How will the work get done?
+6. who is responsible for what tasks? 
+
+## Definition of Done
+ Definition of Done refers to an agreed upon set of items that must be completed before our user story or Backlog item can be considered complete.
+ 
+ 1. the code or solution itself is reviewed by an independent peer group.
+ 2. The product or unit passes all testing requirements, which could include security or performance testing.
+ 3. Documentation is completed. 
+ 4. All user story acceptance criteria specified by the product owner is met. 
+ 5. And finally, the product owner accepts the user story.
+
+## The Sprint Backlog
+The Sprint Backlog is the set of product Backlog items that are identified for completion during the upcoming Sprint. 
+In other words, the Sprint Backlog is a subset of items from the Product Backlog that you'll aim to finish during that particular Sprint.
