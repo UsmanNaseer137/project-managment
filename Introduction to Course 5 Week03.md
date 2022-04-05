@@ -232,3 +232,96 @@ A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Produc
 ## The Sprint Backlog
 The Sprint Backlog is the set of product Backlog items that are identified for completion during the upcoming Sprint. 
 In other words, the Sprint Backlog is a subset of items from the Product Backlog that you'll aim to finish during that particular Sprint.
+
+## The Daily Scrum and Sprint Review
+
+## Daily Scrum or Standup 
+1. Daily Scrum, which is sometimes referred to as stand up, is a time for the Scrum Team to synchronize and prioritize activities for the day. 
+2. In 15 minutes, and at the same time and place every day, each team member answers the following questions:
+   1.  What did I do yesterday?
+   2.  What will I do today ?
+   3.  Do I notice any impediment (obstacle)?
+3. Daily stand ups should provide the Scrum Master with the opportunity to quickly unblock the team with little delay.
+4.  Daily Stand-ups are an opportunity to reinforce focus on the Sprint Backlog and Sprint Goal. 
+
+## Sprint Review
+1. The Sprint Review is a meeting with the entire Scrum Team where the product is demonstrated in order to determine which aspects are finished and which aren't. 
+2. During a Sprint Review, the Development Team and Product Owner will play a heavy role in this inspection and discussion.
+## Cover
+1. exploration of which items should be considered done in the Product Backlog
+2. they'll demonstrate and inspect the product. 
+
+## The Product Increment
+1. The Product Increment is what's produced after a given Sprint and is considered releasable. 
+
+## Releasable 
+A product is releasable when the team has developed a Minimum Viable Product, which has a set of implemented features or requirements.
+
+## MVP
+ A Minimum Viable Product is a version of a product with just enough features to satisfy early customers.
+ 
+ ## The Sprint Retrospective
+1. The Sprint Retrospective is an essential meeting of up to three hours for the Scrum Team to take a step back, reflect, and identify improvements about how to work together as a team. 
+2. In a Sprint Retrospective, the Scrum Team will reflect on what's working or not working for the team regarding the people, the processes, and the tools.
+3. What improvements are worth exploring in the next Sprint? 
+4. What improvements were put in place for the last Sprint?Were they helpful or not, and why? 
+
+## blameless
+6. First, it's important to demonstrate the Scrum value of respect and always allow the team to remain blameless. 
+7. If any team member is worried there may be negative consequences for providing feedback, your outcome won't be as beneficial.
+8. Create a safe space for candor by acknowledging potential awkwardness and, if needed, create a space for anonymous or private feedback.
+
+## Participation
+ Participation is key because retrospectives only work if participants feel like their input matters.
+ 
+## balance the negative with the positive.
+Next, balance the negative with the positive. Don't just ask where you can improve, but also ask things like, where did we notice success? You want your team to feel like they were successful, and you also want to recreate these successful outcomes.
+
+## act on it.
+Finally, make sure to act on it. Teams can get discouraged from participating in future retrospectives if it feels like their feedback won't inspire change.
+
+## Readings
+
+## Sprint Retrospectives: Pitfalls and best practices
+Throughout this program, we have discussed retrospectives. Retrospectives are an integral aspect of project management, especially true when it comes to working in Scrum. As we mentioned in the previous video, retrospectives are one of the five Sprint events in Scrum. In this reading, you will learn some best practices to implement and pitfalls to avoid when conducting Sprint Retrospectives. 
+
+##  Sprint Retrospectives
+As a refresher, retrospectives are workshops or meetings that give project teams time to reflect on a project and brainstorm potential future improvements. In the Scrum framework, Sprint Retrospectives occur at the end of each Sprint, which is usually every one-to-four weeks. 
+
+Sprint Retrospectives are a key practice that supports the Scrum theory and values. They are a critical moment to inspect and adapt to the outcomes produced within the Sprint timebox. Retrospectives occur much more often in Scrum than in traditional project management,  so it is important to consider some best practices and pitfalls to avoid to help make them engaging and productive for the entire team.
+
+
+## Pitfalls
+Avoid too many gimmicks. 
+There are many fun games and exercises that can be used by a Scrum Master when facilitating a Sprint Retrospective. However, not all teams enjoy this style. Consider using these exercises only occasionally or when the team asks for new ways of doing retrospectives.
+
+## Try not to only focus on the negative. 
+Not only is it necessary for the team to recognize what’s not working well, it is also important to highlight where they exceeded expectations. This ensures that the team both avoids failures and repeats successes as well.
+
+## Avoid changing processes after each retrospective. 
+It is okay to keep a new process in place for a few Sprints before deciding whether it was useful or not. You can always make note of opportunities for change, but try to wait a few Sprints before implementing new changes.
+
+## Best practices
+Ask open-ended, probing questions. 
+Ask questions that require thoughtful discussion rather than a yes-or-no answer. For example, ask, “How could we have better achieved our Sprint Goal?” rather than “Did we achieve the Sprint Goal?””
+
+## Consider diverse styles of communication and participation. 
+Make it easy for all team members to contribute their ideas and feedback. For example, not everyone feels comfortable speaking up in a large group. Try things like starting the retrospective with silent reflection by journaling or putting the team into pairs before starting a larger group conversation.
+
+Cover the many aspects of the Sprint when conducting a retrospective.
+
+The productivity and efficiency of the team
+
+The scope and understanding of the definition of done
+
+Communication and interactions within the team
+
+Stakeholder communication
+
+Progress towards more long-range release plans
+
+Consider reflecting periodically on Scrum theory and values by asking specific questions. 
+For example, ask, “How could the team become more transparent?” or “How did we abide by our Scrum values in this Sprint?”
+
+
+
