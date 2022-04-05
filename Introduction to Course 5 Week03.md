@@ -160,4 +160,50 @@ Best practices
 5. If certain items fall into the larger T-shirt size or story points value range, discussing whether it makes sense to break them down into smaller pieces before moving on.
 
 ## Key takeaway
-Either of these effort estimation units are effective at estimating your items and user stories. As a team, it is important to spend the appropriate amount of time deciding which is best for you. If you are a less experienced team, try starting out with T-shirt sizes, but more advanced teams should feel free to use either method. 
+Either of these effort estimation units are effective at estimating your items and user stories. As a team, it is important to spend the appropriate amount of time deciding which is best for you. If you are a less experienced team, try starting out with T-shirt sizes, but more advanced teams should feel free to use either method.
+
+## Introduction to the Sprint
+
+## Sprint
+1. Sprints, which we also called iterations, provide the whole rhythm for the team and is one of the five Scrum events. 
+2. Within a Sprint, the amount of work is planned based on the historical capacity of the team and is made ready for the Sprint Planning event. 
+3. It might help to think of each Sprint as a mini-project with planning, execution, delivery, closing, and a retrospective all wrapped into this bite-sized package. 
+
+## The Scrum Guide
+The Scrum Guide technically defines five events: 
+1. Sprint
+2. Sprint Planning
+3. Daily Scrum
+4. Sprint Review
+5. Sprint Retrospective.
+
+## Timeboxes
+1. create a sense of urgency which will drive prioritization
+2. provide a window of focus which improves productivity
+3. help the team develop a predictable rhythm to their work
+4. 1 to 4 weeks
+
+## Consideration
+1. First, think about what you expect the frequency of changes to be. if requriment change every week then weely sprint.
+2. Second, think about how much focus time your solution developers might need to build a Backlog item.
+3. Third, think about how much overhead goes into a delivery of your product.
+
+## The Sprint: The Scrum Guide overview
+## The Sprint
+Sprints are the heartbeat of Scrum, where ideas are turned into value.
+
+They are fixed length events of one month or less to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.
+
+All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints.
+
+## During the Sprint:
+1. No changes are made that would endanger the Sprint Goal;
+2. Quality does not decrease;
+3. The Product Backlog is refined as needed; 
+4. Scope may be clarified and renegotiated with the Product Owner as more is learned.
+
+Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. Each Sprint may be considered a short project.
+
+Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
+
+A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.
