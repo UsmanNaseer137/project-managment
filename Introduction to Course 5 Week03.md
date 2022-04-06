@@ -324,4 +324,49 @@ Consider reflecting periodically on Scrum theory and values by asking specific q
 For example, ask, “How could the team become more transparent?” or “How did we abide by our Scrum values in this Sprint?”
 
 
+## Velocity and burndown charts
+## burndown charts
+1. A burndown chart measures time against the amount of work done and the amount of work remaining.
+2. The goal of using a burndown chart is to keep the team aware of how they're doing against their overall goals.
+3. In a Scrum Team, burndown charts reflect how the team is doing with completing user stories during the Sprint.
+4. The Scrum Master will review the burndown chart, sometimes daily, to examine if the team will hit their goals or not. 
+
+![image](https://user-images.githubusercontent.com/74914096/161964494-cff997c9-8520-41b3-b5f0-18ff749db87f.png)
+## Velocity
+velocity is a measure of how many points a team burns down during a single Sprint on average. 
+
+1. First, there's no such thing as a good velocity or bad velocity.
+2. The next thing is that each team will have a different velocity, especially since each team decides their own point system calibration. 
+
+1. You can tell them approximately how long it will take to complete the entire Product Backlog
+2. how much of your Backlog will be completed by a particular time.
+
+
+## Interpreting velocity: Dos and Don'ts
+In the previous video, we defined velocity as “The measure of how many points the team burns down in a given Sprint on average.” Velocity measures the amount of work a single team can be expected to complete during an iteration. When we refer to story points, we are referring to a unit of measurement that expresses the estimated effort required to implement that Product Backlog item. These story points are calibrated and decided on by the team.
+
+##  Calculating velocity
+As described in the video and readings, estimating effort can be done in a variety of units. Most often in Agile teams, story points or T-shirt sizes are used to estimate effort. If you use T-shirt sizes, your team will map those sizes to a numeric value for the purpose of calculating a team velocity. 
+
+When your team begins running Sprints or iterations, they won’t be able to accurately determine velocity because they will have no historical basis on which to calculate an average number of points completed in a Sprint. In their very first Sprint, your team will make a rough guess as to how many items they can complete just to get started. Once a few Sprints have been completed, your team will have a good measure of their velocity, and they will use that number to determine which items to include in their Sprint Backlog. This should be easy to do if your team has a properly prioritized and estimated backlog to work from. As you will recall from the videos, this process is called backlog refinement.
+
+##  Using velocity for good 
+When interpreting velocity, it is important to keep a few things in mind. You may feel inclined to share velocity with members outside of your team or to use velocity as a performance or comparison metric. You may also feel inclined to use it to determine a projected delivery date. However, some Agile experts warn against these practices. Let’s discuss why. 
+
+Velocity can be helpful for individuals outside of the Scrum team, but when sharing it with non-team members, be very careful. Since velocity is different for every team, a stakeholder may not have enough context to interpret it. Be sure to share relevant supporting materials to help add context. A good example of this is sharing the velocity with a corresponding date range and visualization that indicates trends over time. There may be dips and spikes in velocity that draw insights and encourage improvements in future projects. 
+
+It is natural for individuals to want to quantify performance through data, but it can be detrimental for a team to feel that kind of pressure within their Sprints. There may be executives, sponsors, or stakeholders that want to use velocity as a performance metric, but this will only hurt the team by encouraging tactics like intimidation. If the team is worried about their velocity making it seem like they are underperforming, the team’s culture can become harmed as a result. 
+
+If you are leading a few different Scrum teams, you may be tempted to compare the two teams’ productivity based on their velocity. You may have the impulse to check which teams are completing the most story points per iteration. However, the weight of different story points is subjective because they are created by the team. One team may consider a story to be five points, but another team might consider it to be closer to three points. Therefore, judging productivity solely on velocity isn’t accurate or fair. Additionally, velocity is not a measure of value. One team’s velocity might differ from another team’s, but this variability is fine as long as both teams are delivering value to your stakeholders.
+
+Using velocity to estimate the delivery date of a project spanning numerous Sprints can be tricky. Velocity can be used as a pressure point by external stakeholders who want to set a date for their product launch. Velocity can also create false expectations and a harshly competitive culture when the team doesn’t hit the estimated dates. Projecting deliverable dates is harmful because it can take a team several Sprints to really understand what they are capable of delivering in each iteration. Also, if you map out too many dates in advance, you aren’t able to account for the changes and issues that will arise. Therefore, make sure you are being careful not to use the estimated delivery dates as commitments. 
+
+## Utilizing Kanban boards
+Scrum and kanban boards have three main features that make it a great Sprint tracking tool for Scrum Teams. 
+1. There's visualization
+2. work-in-progress limits (also known as WIP limits) : We learned earlier in this course that common WIP limits are constraints on how many work items the team actively works on at any given time.
+
+## Tools for transparency and collaboration
+Asana, Jira, Trello
+4. flow of work. 
 
