@@ -396,3 +396,38 @@ For further reading on coaching with Scrum values, check out this blog post from
 
 In this technique, each team member chooses a different hat to explore the subject of the retrospective. The different hats each involve a different objective, like discussing positives or negatives that happened during the Sprint or sharing emotive statements. This helps to ensure that the team takes a well-rounded approach to the retrospective. 
 
+## Common Agile coaching challenges
+## Challange 01 Managing a stable product roadmap
+Agile projects almost always experience changes in the product roadmap. Being able to respond quickly and productively to these changes is a core Agile value.
+But it is possible to have too much change impacting the project, which can lead to an unstable product roadmap. There are two main causes of an unstable product roadmap: 
+1. product ambition : Product ambition poses a challenge when product leadership is overly ambitious about what the team can realistically deliver. 
+Solutions:
+==> First, agree up front how to handle new opportunities, define when they are reviewed and estimated, and how customer or management commitments are made. 
+==> Second, set up regular roadmap reviews with the entire team, at least quarterly, so that everyone knows what to expect.
+==> And third, promote sharing knowledge between the Product Owner and the Development Team
+2. product assumptions.
+When there's uncertainty in a project, you may be required to make some assumptions to move things forward. But making too many assumptions can jeopardize (Risk) the team's success. 
+Solutions:
+==> Document the assumptions and make them transparent.
+==> This allows you to discuss the assumptions as a team and either agree that they're safe assumptions to make or decide to question and double check them. If you do decide to double check them, you can use unbiased user research.
+
+## Unbiased user research
+--Unbiased user research gathers information about what users really want. 
+--It allows you to confirm or reject assumptions 
+--Helps you move forward with confidence.
+
+## Challange 02 Incomplete implementation of Scrum
+1. First, it can lead to a loss of clear roles and responsibilities
+2. Tempted to skip some events or blend them to save time
+3. Finally, not providing the team with the Scrum coaching they need
+
+Solutions
+-- The solution to all of these challenges is to implement Scrum completely. 
+
+## Challange 03 Experiencing a lack of stability within the team
+1. When the team changes a lot, with people leaving and joining frequently, it can make things unpredictable and disrupt the flow of work.
+
+Soultion:
+--First, have a quick onboarding process for new team members to help them get to know the rest of the team and understand the project. 
+--Second, use a Pair Programming style, where a new team member teams up with a colleague and starts learning on the job. 
+-- And third, if team composition changes because members keep leaving, try having shorter Sprints.
