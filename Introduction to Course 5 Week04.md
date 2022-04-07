@@ -357,3 +357,42 @@ What is the skill level of the team member who has encountered a problem?
 What does the situation need now to reach the desired outcomes?
 
 For further reading on coaching with Scrum values, check out this blog post from Scrum.org. 
+
+
+## Agile team challenges
+
+## Sign of value delivery issues
+1. Team has started missing expected delivery dates and is taking a lot longer than usual to complete tasks.
+2. You might notice that the team seems burned out, is working long hours, and showing signs of exhaustion.
+3. Maybe the team has too many items in progress at any given time
+4. Preventing tasks from actually getting to done. 
+
+## Solutions
+1. You can try doing more demos of the solutions with the team to ensure they're delivering on the value roadmap.
+2. You can also use retrospectives to ask the team if anything is slowing them down, like waiting on dependencies or communication challenges.
+3. It can also help to do a quick review with the team and make sure that everyone understands what "done" means. 
+4. Finally, be sure to focus on only a few user stories per Sprint. 
+
+## Sign of Business Collaboration issues
+1. You might notice that the team is overwhelmed with critical feedback or change requests from business people after they reviewed the working solution. 
+2. you might start to detect an "us versus them" mentality between the team doing the work and management.
+
+## Solutions
+1. Try addressing critical feedback and change requests by doing more demos.
+2. Next, consider conducting a Solution Design Sprint, which is an entire Sprint spent working solely on the solution design.
+3. Finally, you can help your team focus by ensuring changes to the Backlog are introduced only in between Sprints.
+
+## Signs of team dynamics and culture issues
+1. First is low team morale. If people are super grumpy, irritated, or generally in a bad mood, then you might have some underlying team dynamics issues to sort out.
+2. Next, watch out for signs the team is experiencing lots of conflict. If people are arguing a lot and issues aren't getting resolved, the team probably needs some help.
+3. Low conflict can also be a sign that the team is experiencing issues.
+
+## Solutions
+1. You could run a team brainstorm session about how to work better together. 
+2. Another idea is to change up the workflows. Try pairing up people to work together on a hard task or change up the way you run one of your regular meetings. It can 3. Also help to take a training class together or watch a video about team dynamics and discuss it as a group.
+
+## retrospective technique: Six Hats Thinking Technique
+![image](https://user-images.githubusercontent.com/74914096/162268866-78151394-fbea-4c4f-9cc2-cd02688c7741.png)
+
+In this technique, each team member chooses a different hat to explore the subject of the retrospective. The different hats each involve a different objective, like discussing positives or negatives that happened during the Sprint or sharing emotive statements. This helps to ensure that the team takes a well-rounded approach to the retrospective. 
+
