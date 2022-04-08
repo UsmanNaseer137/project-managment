@@ -557,3 +557,20 @@ Finally, and most importantly, don’t scale if it isn’t necessary. The larger
 
 ## Key takeaway
 Scaling Agile can be as simple as putting two Scrum teams together into a Scrum of Scrums configuration or as sophisticated as training an organization of thousands in the SAFe framework. When you have a large team or a big deliverable that requires multiple workstreams, think about how you can scale to suit your situation. Remember that you can modify SAFe, LeSS, and other scaled frameworks to meet the needs of each project. Make sure your team understands Agile principles before you try to scale since scaling inevitably introduces more waste and complexity.
+
+
+## Agile project management opportunities
+
+1.  Even if a candidate doesn't have Agile on their resume, one of the first things I ask them is, What's the difference between Agile and Waterfall project management? Their answer usually tells me instantly if they know what Agile is about, and it's a great launching off point for more follow-up questions. 
+
+2.  I want to know whether the candidate knows that Agile is more than just Scrum, Sprints, and Standups. Do they know it's also about founding values that include customer collaboration, value delivery, self-organizing teams? I'm also interested to know whether they make Waterfall out to be the worst solution, or do they know that all projects benefit from certain types of approaches, including Waterfall, like clear requirements, risk management, stakeholder awareness, and more. I also ask, how do you know when to use an Agile approach or framework on your project?
+
+3. Their answer helps me know if they understand how Agile or Scrum can help a project manager with specific challenges and what those challenges are.
+4. And finally I ask, if you are facing resistance with your team following a Scrum or Agile practice, how do you convince them to give it a try? Their answer helps me understand how they use communication and influence skills and whether they truly believe that an Agile team can be self-organizing.
+5. At Google, our teams sometimes resist being told what to do, especially because this can diminish innovation and creativity, so I always want to hire project managers who work with the team and don't try to force them to do things a particular way.
+6.  Some questions you should ask are, how supportive is the management here towards blending project management approaches? What's the first thing I should know about the culture here? And how often will I get to hear about the needs of our users or customers? And what would a typical day look like for me if I were to take on this position?
+7. Maybe you're not interviewing for a new role, but you want to bring what you learned in this Agile course back to your team.
+
+8. Here are four things that helped me bring Agile to my teams. First, start small. You may be excited by everything you've learned here, but your team might like things how they are. So introduce Agile practices in bite-sized pieces. Maybe start by using a Kanban board, just to keep track of one workstream, or set up a retrospective after a major milestone. Second, listen to feedback. The most powerful tool a project manager has is the ability to listen to their team and meet them where they are. When you introduce changes, ask the team how it's going. Get their ideas on how to make it better, and include them in your approach. This will amplify your small changes into big results for the team. Third, be strategic.
+9. Target your improvements to challenges your team has today—introduce new ways of working that address head on the biggest issues your team's experiencing.
+10. You may have setbacks or need to lean on supporters to bring these ideas back to your team.
