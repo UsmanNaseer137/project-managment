@@ -574,3 +574,19 @@ Scaling Agile can be as simple as putting two Scrum teams together into a Scrum 
 8. Here are four things that helped me bring Agile to my teams. First, start small. You may be excited by everything you've learned here, but your team might like things how they are. So introduce Agile practices in bite-sized pieces. Maybe start by using a Kanban board, just to keep track of one workstream, or set up a retrospective after a major milestone. Second, listen to feedback. The most powerful tool a project manager has is the ability to listen to their team and meet them where they are. When you introduce changes, ask the team how it's going. Get their ideas on how to make it better, and include them in your approach. This will amplify your small changes into big results for the team. Third, be strategic.
 9. Target your improvements to challenges your team has today—introduce new ways of working that address head on the biggest issues your team's experiencing.
 10. You may have setbacks or need to lean on supporters to bring these ideas back to your team.
+
+## Creating a job search plan
+
+A job search plan can help you 
+1. establish timelines
+2. set expectations, monitor progress
+3. adjust as needed to meet your goal of getting a project manager role. 
+4. And good news: you can use some of the project management skills you've learned to build out this plan.
+
+## At each stage, you'll gather information to make decisions
+1. like the number of resumes you need to send out each week.
+2. Your application to interview ratio
+3. which types of outreach and cover letter formats are working for you.
+
+Once you have your job search plan in place, it's time to start thinking about the companies and industries that interest and motivate you.
+A target company list can be as simple as listing out the companies you think of in a spreadsheet or digital document. 
