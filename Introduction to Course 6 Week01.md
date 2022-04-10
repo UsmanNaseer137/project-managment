@@ -56,3 +56,14 @@ The last part of the SMART framework is to make your goal time-bound. You'll wan
 
 ## Project charters: Defining scope, benefits, and costs
 
+ext, you need to get aligned with your stakeholders on scope, benefits, and cost. We talked about scope earlier, but as a quick refresher, scope refers to the boundaries of the project; for example, the number of restaurants taking part in the pilot. 
+
+To determine what's in- and out-of-scope, think about what's needed to achieve the project goal. 
+
+Keep the following questions in mind: Which project details are your stakeholders aligned on that would be considered in-scope? Do your stakeholders disagree on any elements? Are there any details you should designate as out-of-scope for this particular project? As you think about these questions, take notes on what you find and refer to them as you complete the scope section of your project charter in the upcoming activity.
+
+Benefits are the expected gains of a project. These can be direct, monetary gains, or indirect benefits, like an improvement in customer engagement or satisfaction. 
+
+Costs refer to the money spent on project tasks and the prices of things like time, resources, and labor.
+
+A budget is an estimate of the amount of money allocated to complete the project.
