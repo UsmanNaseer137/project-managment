@@ -192,3 +192,27 @@ Dr. Jay Conger lists these four steps to effectively influence:
 3. provide evidence and 
 4. connect emotionally.
 
+## coalition
+A coalition is a temporary alliance or partnering of individuals or groups in order to achieve a common purpose or to engage in a joint activity. 
+
+When two or more people advocate together for an idea, they're able to exert more influence than if they attempted to act alone. 
+
+Which ones could you form a coalition with to help you negotiate one of the out-of-scope items that was requested? 
+Creating a coalition boosts your credibility by involving others who support your goal. The people in your coalition can help you find common ground and provide evidence. Plus, you can connect emotionally by including someone who either has a positive relationship with the stakeholder or understands the stakeholder and the goal well enough to make a connection. An effective coalition includes people with the right mix of influence or power and interest. 
+
+
+When you make your request, 
+1. clearly state the issue you're attempting to resolve, 
+2. explain which aspect of the project is being negotiated. 
+3. Then, ask if they might consider supporting your position or solution and state what that is.
+4.  And of course, refer to that person's sources of power or interest you identified. 
+
+### Summary
+
+1. You started by analyzing documents, conducting research, and applying strategic thinking to complete the project charter for Sauce and Spoon's tablet rollout project.
+2. Next, you use the project charter as a tool to align the project's scope and goals among key stakeholders.
+3. Then you completed your own stakeholder analysis and learned how to use one when preparing for project negotiations.
+4. You also identified aspects of a project that often require negotiation, along with aspects that provide benefits that could support a mutually beneficial agreement that works for all stakeholders. 
+5. Finally, you applied your knowledge of power and interest to identify people to be part of a coalition aimed at persuading stakeholders to a certain viewpoint.
+
+
