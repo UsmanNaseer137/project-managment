@@ -46,3 +46,54 @@ Defining project tasks by the amount of time they’re expected to take will rev
 
 Identify project tasks by their “done” factors
 Begin with the end in mind: What does it mean for the task to be considered “done”? From there, you can work backwards to see if you’ve missed any steps and identify checkpoints for completion along the way. 
+
+
+## Identifying project tasks: Conducting online research
+
+## Domain Knowlege
+Domain knowledge refers to knowledge of a specific industry, topic, or activity.
+
+Another key to success when working on an unfamiliar project is knowing where to find useful information that can help you increase your domain knowledge. 
+
+Online research can help increase your knowledge of industry terms, techniques, processes, and more, all of which can be helpful is you embark on a new project.
+
+## Tips
+1. First, try searching online for news coverage of similar projects at other companies. 
+2. It's also helpful to search online for research on topics related to your project. 
+3. You could also try researching similar projects in other industries. 
+4. Once you've done some initial online research, review the list of tasks that you've identified so far and research the specifics of executing that work. 
+
+## Identifying project tasks: Analyzing key conversations
+Discussions with other people working on the project, from stakeholders to team members, can help you uncover tasks that you're still missing or clarify the smaller subtasks. 
+
+## Tips
+1.  One way to discover more tasks is to hold a group brainstorm session with team members who will likely work on those tasks. 
+2.  Another way to discover tasks is to hold one-on-one conversations with team members about tasks they'll likely be responsible for completing. 
+3.  leverage (Get / Purchase /Grip) the expertise of your teammates to discover what you don't know and to fill in gaps in your list of tasks. 
+4.   In addition to connecting with teammates to uncover project tasks, it may also be helpful to consult with other people in your organization who are experts on given tasks.
+5.    Stakeholders who have high- or medium-level interest or influence in the project are most likely to provide the information you need.
+
+Once you've identified which stakeholders would be most helpful,
+1. make sure you're prepared by gathering as much information as possible ahead of your conversation
+2. outlining clear outstanding questions that you still need answers to. 
+3. present your research and your current list of tasks 
+4. explain exactly how they can help you move forward.
+
+
+Keep in mind that conversations you have about project tasks will often contain more details and information than you need to create a thorough list, but you may want to note some of this extra information since it may be useful later in the project.
+
+The right level of detail to include in your task list will vary from project to project and team to team.
+
+## Ordering tasks and identifying milestones
+
+## Task priority
+Determining the proper task order will help you assign start and end dates for each task. When determining priority, first consider the basic order of operations. 
+
+In other words, 
+1. what is the natural sequence of tasks? 
+2. Are there any dependencies or prerequisites? For example, you can't train staff on how to use the tablets before they've been installed and tested.
+
+## Determine MileStone
+1.To determine milestones within your list of tasks, identify points in the project plan where you and your team can evaluate the work completed so far. 
+2. Another way to determine milestones is to identify important tasks that your stakeholders have a particular interest in.
+3. As you review your list, you should also identify tasks that carry a high risk or signal the completion of a phase or major task. 
