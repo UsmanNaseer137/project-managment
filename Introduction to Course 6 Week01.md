@@ -216,3 +216,4 @@ When you make your request,
 5. Finally, you applied your knowledge of power and interest to identify people to be part of a coalition aimed at persuading stakeholders to a certain viewpoint.
 
 
+
