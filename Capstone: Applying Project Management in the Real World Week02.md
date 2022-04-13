@@ -206,5 +206,22 @@ Placing more weight on the most likely estimate increases the accuracy of the es
 
  ![image](https://user-images.githubusercontent.com/74914096/163245175-0e36c80c-adce-4c54-8377-2f05caceee1c.png)
 
+
+## Time estimation: Applying confidence level ratings
+1. A confidence level rating indicates how confident you are in an estimate's accuracy. 
+2. Estimating is not a perfect science, so adding a confidence level rating for a task allows you to address any uncertainty.
+3. Knowing the confidence level of your estimate and adding notes about any risks or issues that might affect the estimate can help you identify whether you should ask the project team for their input. They might be able to point out the estimates or tasks you should track more closely.
+4. Additionally, if you notice that your confidence is low across a large percentage of task estimates, you might want to communicate your uncertainty about the project timeline to stakeholders.
+
+## Technique
+1. Using the three-point technique we just discussed is one way of gaining confidence in your estimates. 
+2. Another way to determine a confidence rating is by polling your team about the tasks they're assigned and coming to a consensus about your collective confidence.
+3. To do this, you could calculate their level of confidence as a percentage, which means polling everyone on their estimates and calculating the average confidence level.
+4. you could define categories for the team. For example, we've never done a project like this before, we've done this once before, we've done this a handful of times, and we've done this a ton of times already. 
+
+Estimating is far from an exact science, particularly in project management when there are so many unknowns. Implementing a system that accounts for those unknowns and ensures an accurate picture of the project timeline means everyone will be better off over the long term.
+
+ Implementing a system that accounts for those unknowns and ensures an accurate picture of project costs means everyone will be better off over the long term.
+
  
 
