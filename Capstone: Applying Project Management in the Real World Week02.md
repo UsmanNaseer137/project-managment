@@ -97,3 +97,114 @@ In other words,
 1.To determine milestones within your list of tasks, identify points in the project plan where you and your team can evaluate the work completed so far. 
 2. Another way to determine milestones is to identify important tasks that your stakeholders have a particular interest in.
 3. As you review your list, you should also identify tasks that carry a high risk or signal the completion of a phase or major task. 
+
+## Time estimation: Asking the right questions
+
+Time estimation is a prediction of the total amount of time required to complete a task.
+
+Asking the right questions can help your experts get to the most accurate time estimates possible.
+
+## Strategies for getting accurate time estimates from your task experts. 
+1. First, check their understanding of the task. Ask the expert to explain all the detailed steps involved in the task.
+2. Next, ask for estimates of the sub-steps and make note of them. Then add them all up and compare that total with the experts estimate of the total time needed to complete the task.
+3. Another strategy is to discuss the assumptions the expert might be making when they give you an estimate. For example, what equipment do they assume they'll have? What kind of supplies? How many people do they assume are working on the task? What are their assumptions about the skill and experience level of the people working alongside them on the task?
+4. Then ask the task expert to consider how likely it might be that all or some of these assumptions might not work out and how that might impact their estimate. 
+5. Finally, another strategy for getting accurate estimates is to compare the expert's estimates against the actual time spent on similar tasks in previous work. 
+
+## Between an effort estimate and a total duration estimate. 
+1. An effort estimate only takes into account the actual time it takes to complete a task.
+2. A total duration estimate accounts for the effort, estimation, and any other factors, like getting approvals, prep work, testing, and so on.
+
+## Time estimation: Three-point estimating
+Three-point estimating is used to help determine the most realistic time estimate for a task. It uses optimistic and pessimistic calculations, meaning calculations based on the best-case and worst-case scenarios. 
+
+## Three Point Estimating
+1. Each task receives three time estimates: optimistic, most likely, and pessimistic.
+2.  Each estimate indicates the projected amount of time a task will take under that category and how likely any potential risks are to occur. 
+
+## optimistic
+1. "optimistic" estimate assumes the best-case scenario: Issues will not occur and the task will be completed within the estimated time.
+2. In other words, it's how long you hope the task will take, assuming everything goes as planned. 
+
+## Most likely
+Most likely estimate is that it is based on how long the task usually takes under normal circumstances, like if the supplies arrive at the expected time and you only need to make some slight adjustments before everything eventually works the way it's supposed to.
+
+## Pessimistic
+a "pessimistic" estimate assumes that issues will definitely occur. This is where everything that could go wrong does go wrong.
+
+## Example : The task of training the staff to use the tablets.
+
+### Optimistic  = 4 hour time estimate
+1. The task expert tells you that the conditions for an optimistic estimate would mean the vendor who is hired to do training is well-qualified, has all the materials they need, and shows up on time to deliver the training.
+2. All of the staff shows up on time and successfully completes the training within the scheduled amount of time.
+3. All of the equipment works for the staff to practice on.
+
+## Most Likly  = 6 hour time estimate
+1. In a most likely scenario, the task expert assumes that the vendor is qualified but might not have all the necessary materials. 
+2. The vendor might be new and need extra time to prepare or take longer to deliver the training.
+3. Usually, a couple of staff members can't attend or be on time, so extra training time would need to be scheduled. 
+4. here could also be some minor glitches with the equipment and the training might need to be rescheduled for a different day later in the week.
+
+## Pessimistic  6 hours + one additional week
+1. Under pessimistic conditions, you could have a situation where the original training vendor quits and a new vendor has to be hired. 
+2. There could be several unexpected staff no-shows or turnover right before the training. 
+3. Possibly the equipment doesn't get delivered on time or doesn't work, so the training can't happen until the new equipment arrives.
+
+
+When conducting your own research or having conversations with task experts, be mindful of the three points so that you can determine the outcomes of optimistic, most likely, and pessimistic timing.
+
+## Tips
+1. If someone quotes you a time estimate, don't just take their word for it without understanding the context they're estimating from. 
+Think about it this way—if someone is being optimistic, they might estimate that a task will only take them two days to complete. If you go with that estimate and it ends up taking a whole week, your schedule is off.
+
+2. But if someone is being pessimistic and quotes one month and the task only takes a week, then you've got extra time in your schedule that could have gone toward other tasks or led to an earlier product release. 
+3. Always accounting for a worst-case scenario might seem like a good thing, but it's actually wasteful if you calculate most of your estimates this way.
+
+## Determining a final estimate
+1. You want to examine the best- and worst-case scenario timing 
+2. Compare these with the most likely scenario.
+3. From there, you can build in a buffer that accounts for risks that are likely but still keeps the project progressing at an efficient rate. 
+
+
+## The three-point estimating technique
+Estimating is a crucial aspect of project management. Project managers are expected to accurately estimate essential elements of the project, such as costs, scope, and time. There are many different estimation techniques that can be used, depending on what aspect of the project needs an estimate. Estimation techniques allow project managers to provide better forecasts to stakeholders and clients and more accurately budget the funds and resources they need for project success. 
+
+The three-point estimating technique can be used to help determine the most realistic time estimate for a task. It uses optimistic, pessimistic, and most likely calculations, meaning calculations are based on the “best case” (optimistic), “worst case” (pessimistic), and most probable scenarios. 
+
+## Three-point estimation
+In this technique, each task receives three estimates: optimistic, most likely, and pessimistic. Each of these three estimates is then associated with the corresponding amount of time that task is expected to take.
+![image](https://user-images.githubusercontent.com/74914096/163244811-5f369bb8-eb5d-4613-8ecc-f29d4abc2f2b.png)
+
+## The three-point estimating process
+For each task, add a duration estimate in each category: optimistic, most likely, and pessimistic. You can get these estimates by doing research on the task or by asking a task expert. As a best practice, add notes about the conditions that determine each estimate.
+
+![image](https://user-images.githubusercontent.com/74914096/163244940-f6c6ceb7-ddd9-48d7-b359-9764ed77d7ce.png)
+
+## Determining a final estimate
+To determine your final estimate—the estimate you’re going to use in your project plan—examine the optimistic and pessimistic timing, then compare it with the most likely timing. Consider the conditions that are likely to exist while the task is being completed. Does it seem reasonable that the most likely time can be met? If your team has never completed this task before, or if dependencies for the task are unknown, then the final estimate should be closer to the pessimistic estimate. If your team is familiar with the task and you’re able to confirm the conditions for an optimistic estimate, then the final estimate can be closer to the optimistic estimate. Alternatively, simply use the most likely estimate, especially if the difference between the optimistic and pessimistic estimates is minimal (a few hours or no more than one or two days). A good practice is to build in a “buffer” that accounts for risks that are likely but still keeps the project progressing at an efficient rate.
+
+## Three-point estimation formulas
+Some projects will require you to calculate specific numeric values for task time estimates. There are many online resources that provide more instruction for how to calculate estimates, but we’ve provided two popular formulas: the Triangular Distribution and the Beta (PERT) Distribution.
+
+For each formula: E is Estimate (the final estimate you’ll assign to the task), o = optimistic estimate, p = pessimistic estimate, and m = most likely estimate.
+
+![image](https://user-images.githubusercontent.com/74914096/163245020-a2e687e5-f8eb-4e14-a565-53c5972c5e57.png)
+
+
+## The Triangular Distribution
+The weight of each estimate in this equation is identical, which means the most likely case does not affect the final estimate more than the optimistic or pessimistic estimates.
+
+![image](https://user-images.githubusercontent.com/74914096/163245097-fc1295a4-5f74-440e-a5da-1a569378b131.png)
+
+
+## The Beta (PERT) Distribution
+The Beta (PERT) distribution is a weighted average. The most likely estimate receives a multiplier of four, while the overall divisor is increased to six. 
+
+This method takes into account that the most likely case is more likely to occur, so it’s given more weight. The added weight is reflected in the multiplier of four.
+
+Placing more weight on the most likely estimate increases the accuracy of the estimate. In most cases, the Beta (PERT) Distribution has been proven to be more accurate than three-point estimating and is often used to calculate both cost and time estimates.
+
+ ![image](https://user-images.githubusercontent.com/74914096/163245175-0e36c80c-adce-4c54-8377-2f05caceee1c.png)
+
+ 
+
