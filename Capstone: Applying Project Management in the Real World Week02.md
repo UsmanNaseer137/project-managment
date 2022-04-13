@@ -224,4 +224,54 @@ Estimating is far from an exact science, particularly in project management when
  Implementing a system that accounts for those unknowns and ensures an accurate picture of project costs means everyone will be better off over the long term.
 
  
+## Time estimation: Effective time estimate negotiation
+1.  Negotiation skills can also help you get accurate time and effort estimates, but the skills you use and the approach you take will be a little different. In this case, you're negotiating with a task expert, not a stakeholder. 
+2. On any project, you'll have to work with people who have a tendency to over or underestimate time, costs, or resources. People don't do this intentionally.
+3. In some situations, using negotiation skills to get accurate time estimates might be critical to the success of the project. There are lots of different negotiation techniques out there, but let's focus on a few that are specific to negotiating a time estimate. 
+
+## Negotiation Techniques
+1. say no without saying no; 
+2. focus on interests, not positions; 
+3. present mutually beneficial options; 
+4. insist on objective criteria.
+
+## say no without saying no;
+If a task expert gives you a time estimate that's different from what you hoped for, there are a few techniques you can use to try and reach an estimate that works for both of you. Let's start with the first technique: saying no without saying no. 
+Instead, ask open-ended questions like: How would you like me to proceed? How can we solve this problem? And, what can I do to help? Questions like these invite the other person to collaborate with you. 
+
+
+## Focus on interests, not positions.
+Focus on interests, not positions. Here, the goal is not to win. Instead, try to identify the other person's interests, their basic needs, wants, and motivations around completing a certain task.
+
+1. You might be working with a task expert who cares deeply about completing the task with a high degree of quality, but you're concerned that if you don't meet the deadline, the quality of the work won't matter. 
+
+## present mutually beneficial options
+1. A third technique is to present mutually beneficial options. We covered this a little already, but here's how you can apply this concept when negotiating time estimates.
+2. Imagine both you and your task expert want to complete the task as quickly as possible, but the expert's time estimate is still longer than you'd like. Asking some open-ended questions, like the ones listed earlier, can help you figure out if there's a solution that will satisfy both of your goals.
+3. You can ask if there are any areas of quality they'd be willing to compromise on that would shorten the schedule estimate but still allow them to complete the task to an acceptable degree.
+4. Maybe there's information the expert is missing or a resource that you could commit to finding and supplying to make the estimate lower.
+
+## insist on objective criteria.
+1. The last technique is to insist on using objective criteria to define a time estimate.
+2. Objective criteria is based on neutral information like market value, research findings, previously-documented experience, or laws and regulations. 
+3. The key is to agree in advance about which objective criteria to consult, and then to use the information to determine your estimates. 
+
+## Time estimation: Negotiating with empathy
+1. Empathy is the ability to understand and feel what others are feeling. 
+2.  Approaching a conversation with empathy can make the discussion much easier. 
+3.  Asking questions about how long a task will take could make some people feel insecure.They might feel like you don't trust them, that you think they're not competent, that you believe you know more than they do about their own work, and so on.
+4.  Have you ever felt like someone didn't trust you or questioned your ability to complete your work? Even when you're just trying to get a clear understanding of a task you don't understand, asking questions without empathy can leave team members with the sense that you're micromanaging them.
+
+## Micromanaging
+6.  Micromanaging is when a manager too closely observes, controls, or continuously reminds the people they're managing of the work they've been assigned.
+7.  This has a negative impact because it demonstrates the manager's lack of trust and confidence in the people they oversee. 
+
+ ## There are several ways you can bring empathy to your conversations. 
+ 1. One way is to listen with curiosity.
+ 2. Another way to show empathy is to periodically repeat what you think the other person said. 
+ 3. You can also demonstrate empathy by trying to connect with their experience. Let the person know that you understand that making estimations can be difficult for anyone, yourself included.
+ 4. Practicing empathy also means you're able to recognize your own judgments. Acknowledge to yourself if you're making internal judgments about the person you're communicating with, like if you're having doubts about their work quality, for example.
+ 5. Another strategy for practicing empathy is recognizing buffering. A team member might add a buffer to their time estimate for a task without communicating why they added the buffer. 
+ 6. And finally, in order to effectively employ all of these strategies for practicing empathy in your conversations, you need to be able to fully focus on what the other person is communicating. This means avoiding distractions. Putting your phone on silent, not looking at phone notifications or texting, and closing your laptop are some ways to show the person that you're giving them your undivided attention and that what they're sharing is important to you.
+
 
