@@ -216,8 +216,4 @@ When you make your request,
 5. Finally, you applied your knowledge of power and interest to identify people to be part of a coalition aimed at persuading stakeholders to a certain viewpoint.
 
 
-## Time estimation: Asking the right questions
 
-Time estimation is a prediction of the total amount of time required to complete a task.
-
-Asking the right questions can help your experts get to the most accurate time estimates possible.
