@@ -109,12 +109,45 @@ Your executive summary should aim to answer questions like:
 ![image](https://user-images.githubusercontent.com/74914096/163671729-f4431987-b376-4ceb-bafb-77d9667c1484.png)
 
 ## elevator pitc  -- tell me about your self
- An elevator pitch is a quick professional summary of yourself, typically, it's designed for you to present in 60 seconds or less. 
+1. An elevator pitch is a quick professional summary of yourself, typically, it's designed for you to present in 60 seconds or less. 
+2. An elevator pitch is a brief, persuasive speech about an idea, product, company, or individual (like you). You should be able to deliver your elevator pitch in the amount of time it takes to ride an elevator with someone from one floor to another. An elevator pitch is typically 30-60 seconds long, or approximately 75-150 words. 
+
+2. To create a strong elevator pitch, you need to consider how to present yourself as a potential candidate for a specific role. Before you begin writing the pitch itself, you will identify and highlight the key information you want to share. Then, you will write a 30-60-second pitch. 
  
  To craft a strong elevator pitch, break it down into three parts:
  1. Who you are
  2. what skills and experiences you have
- 3. What you want
+ 3. What you want  --  This part of the pitch is unique to this setting and the person you're pitching to.
 
 Example 
  I started my career in project management a few years ago. And recently, I've been drawn to the gaming space. I've always been good at bringing people together and working towards common goals. My experience successfully leading teams and managing new app development, led me to look for opportunities in the industry. 
+ 
+ 
+ ## The SMART METHOD
+ 
+ ##  Behavioral questions
+ Behavioral questions are those that allow the interviewee to share an example when they had to practice a particular skill. 
+ 
+ ## Hypothetical questions
+ Interviewers that ask hypothetical questions would typically present a scenario to you and then ask you how you'd go about working through that experience. 
+ 
+ ##  Factual questions
+ Factual questions aim to assess you on your knowledge of basic project management skills.
+ 
+ ## STAR
+ It's important that you provide clear responses to your interviewer. So we recommend the STAR method. STAR stands for situation, task, action, and result. It's a great way to organize your response, following a story-like structure.
+ 
+ ## Situation
+First, you begin with a situation. For example, if your interviewer asked you, "Tell me about a time when you had a project deliverable that was not going to meet high-quality expectations. What did you do?" Using the STAR method, you'll want to explain the situation in the experience you'll be using to answer their question.
+  
+  ## Task
+What was the task or your involvement or responsibility in the scenario? What deliverable were you assigned to complete? What was the quality you are aiming for? Next, you'll provide more detail.
+
+## Action
+What action or actions did you take? This is where you really want to highlight your contributions. When did you realize your deliverable was not meeting the quality standards you were aiming for? What was your reaction to this? What decisions did you make to course correct? Who did you partner with, and how did you communicate this to your manager or team? This part of your response may take up the most time to cover as you can highlight multiple skills here, but make sure to keep a clear and structured response. 
+
+## Response
+ The final part of your response, should be focused on the result. Here, you should discuss the outcome from the decisions you made and the impact you had.
+ 
+ ## Tips for remote interview
+ ![image](https://user-images.githubusercontent.com/74914096/163685316-c873b1ba-8890-4fd3-85b5-e0832c8f8c66.png)
