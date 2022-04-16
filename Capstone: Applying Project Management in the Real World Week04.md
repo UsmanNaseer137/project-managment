@@ -107,3 +107,14 @@ Your executive summary should aim to answer questions like:
 
 
 ![image](https://user-images.githubusercontent.com/74914096/163671729-f4431987-b376-4ceb-bafb-77d9667c1484.png)
+
+## elevator pitc  -- tell me about your self
+ An elevator pitch is a quick professional summary of yourself, typically, it's designed for you to present in 60 seconds or less. 
+ 
+ To craft a strong elevator pitch, break it down into three parts:
+ 1. Who you are
+ 2. what skills and experiences you have
+ 3. What you want
+
+Example 
+ I started my career in project management a few years ago. And recently, I've been drawn to the gaming space. I've always been good at bringing people together and working towards common goals. My experience successfully leading teams and managing new app development, led me to look for opportunities in the industry. 
