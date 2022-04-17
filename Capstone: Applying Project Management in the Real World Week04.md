@@ -151,3 +151,32 @@ What action or actions did you take? This is where you really want to highlight 
  
  ## Tips for remote interview
  ![image](https://user-images.githubusercontent.com/74914096/163685316-c873b1ba-8890-4fd3-85b5-e0832c8f8c66.png)
+ 
+ ## Top tips for interview success
+You just heard from Googlers on their top tips to help you prepare for an interview. Read on for four final preparation tips to help set you up for interviewing success:
+
+## 1. Find connections between the job listing and your resume.
+First, re-read your resume and the job description to help you draw lines between the two. Where do they connect? Then, as you interview, include specific keywords or phrases from the job description that match skills you possess or achievements you have accomplished previously in your career.
+
+![image](https://user-images.githubusercontent.com/74914096/163728011-53c17960-9c92-4c0c-8952-cb39e81f3f39.png)
+
+## 2. Focus on data.
+As you start to think about things you want to highlight in your interview, don’t forget to include data. This helps your interviewer understand not just your overall achievements, but how big of an impact you made. What data can you provide that tells the story of your experience as it relates to the position? The “equation” we suggest using to convey this information goes something like this: I accomplished X as measured by Y doing Z. Here’s an example: “I increased customer satisfaction by 22% in three months by designing a new digital onboarding process.”
+
+![image](https://user-images.githubusercontent.com/74914096/163728028-b0aee950-d33e-40a6-b0ee-794f258e75a6.png)
+
+If you don’t have access to this kind of data from a previous position, you can still indicate the scope you were accountable for and strengthen the language you use when describing your responsibilities by including action words like provided, created, developed, supported, implemented, and generated. For example: “I implemented a new scheduling system that led to the team meeting 95% of their deadlines.”
+
+## 3. Look back at past work experiences.
+Review your work history. That may not sound like something you need to prepare for, but most of us have done more than we think. It’s easy to forget some of our own wins—and lessons learned from mistakes. 
+
+Think of examples of times you achieved something so you are prepared to answer questions like “Tell me about a time when . . .” or “How would you approach this situation . . .?" 
+
+## 4. Come ready with questions.
+Come to the interview with your own questions, such as “
+1. What are some upcoming projects I’d be working on?
+2.  What current goals is the company focused on? 
+3.  Can you tell me about the team I’ll be working with?”
+ This not only shows you care about understanding the company and the position you’re applying for, but it’s also a testament to the research you’ve done by looking into the company. Besides, this is your opportunity to interview them as well. 
+
+This type of preparation will help you feel confident and prepared to talk about yourself, your experience, your career aspirations, and the position on your interview.
